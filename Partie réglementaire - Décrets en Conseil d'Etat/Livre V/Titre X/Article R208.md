@@ -1,5 +1,7 @@
 Article R208
 ----
-Les droits relatifs à la correspondance postale et télégraphique sont perçus
-pour chaque affaire criminelle, correctionnelle ou de police dans les conditions
-fixées et d'après le tarif établi par des lois spéciales.
+Pour chaque remise ou mise en oeuvre, à la demande des autorités judiciaires
+dans les conditions fixées par le II de l'article 28 de la loi n° 90-1170 du 29
+décembre 1990 sur la réglementation des télécommunications, des conventions
+secrètes de moyens ou prestations de cryptologie, il est alloué une somme de
+60,98 euros à chaque organisme agréé.
