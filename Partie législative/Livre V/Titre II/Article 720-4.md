@@ -1,13 +1,13 @@
 Article 720-4
 ----
 Lorsque le condamné présente des gages sérieux de réadaptation sociale, le juge
-de l'application des peines peut, dans les conditions de l'article 722, saisir
-la juridiction du lieu de détention, de même degré que celle qui a prononcé la
-condamnation pour qu'il soit mis fin à l'application de tout ou partie des
-dispositions de l'article 720-2 ou pour que la durée de la période de sûreté
-soit réduite. Si la condamnation a été prononcée par une cour d'assises, la
-juridiction compétente pour statuer sur la demande est la chambre de
-l'instruction dans le ressort de laquelle le condamné est détenu. Toutefois,
+de l'application des peines peut, à titre exceptionnel et dans les conditions de
+l'article 722, saisir la juridiction du lieu de détention, de même degré que
+celle qui a prononcé la condamnation pour qu'il soit mis fin à l'application de
+tout ou partie des dispositions de l'article 720-2 ou pour que la durée de la
+période de sûreté soit réduite. Si la condamnation a été prononcée par une cour
+d'assises, la juridiction compétente pour statuer sur la demande est la chambre
+de l'instruction dans le ressort de laquelle le condamné est détenu. Toutefois,
 lorsque la cour d'assises a, en application du dernier alinéa des articles 221-3
 et 221-4 du code pénal, décidé de porter la durée de la période de sûreté à
 trente ans, la chambre de l'instruction ne peut être saisie qu'après que le
