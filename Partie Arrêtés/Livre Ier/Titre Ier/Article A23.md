@@ -5,139 +5,157 @@ suivant :
 
 Procédure pénale
 
-L'action publique et l'action civile.
+L'action publique et l'action civile : notions générales.
 
-Le ministère public.
+Les autorités investies par la loi de missions de police judiciaire :
 
-Les juridictions d'instruction.
+- la police judiciaire ;
 
-La police administrative et la police judiciaire.
+- le ministère public ;
 
-Les officiers et agents de police judiciaire.
+- le magistrat instructeur.
+
+Les enquêtes, les contrôles d'identité :
+
+- les cadres juridiques ;
+
+- les contrôles, les vérifications et les relevés d'identité.
+
+L'instruction :
+
+- du premier et du second degré ;
+
+- le contrôle judiciaire et la détention provisoire ;
+
+- la commission rogatoire.
+
+Les procédures particulières :
+
+- l'entraide judiciaire internationale ;
+
+- la procédure applicable à la criminalité et à la délinquance organisées.
+
+La procédure pénale applicable aux mineurs.
 
 Le contrôle de la mission de police judiciaire.
 
-La procédure applicable aux crimes et délits flagrants.
-
-L'enquête préliminaire.
-
-La force probante des actes de police judiciaire.
-
-Les actes de police judiciaire et l'article L. 23-1 du code de la route.
-
-La procédure applicable aux contraventions.
-
-Les commissions rogatoires.
-
 Les mandats de justice.
 
-Les règles particulières de procédure applicables aux mineurs.
+Les juridictions de jugement.
 
-L'organisation judiciaire en matière pénale : cour d'assises, cour d'appel,
-tribunal correctionnel, tribunal de police.
+L'exécution des décisions de justice :
 
-Droit pénal
+- la contrainte judiciaire ;
 
-L'infraction en général (éléments constitutifs ; classification en crimes,
-délits et contraventions ; intérêts de cette distinction).
+- les juridictions de l'application des peines.
 
-La tentative punissable (commencement d'exécution et désistement volontaire).
+Droit pénal général
 
-La responsabilité pénale.
+La loi pénale :
 
-Les causes de non-imputabilité.
+- les principes généraux ;
 
-Les faits justificatifs.
+- l'application de la loi pénale dans le temps et dans l'espace.
 
-Les excuses absolutoires et les excuses atténuantes.
+L'infraction pénale :
 
-Les circonstances aggravantes et les circonstances atténuantes.
+- la classification des infractions ;
 
-La complicité.
+- les éléments constitutifs de l'infraction ;
 
-Le concours d'infractions.
+- les circonstances aggravantes.
 
-La récidive.
+La responsabilité pénale :
 
-Le casier judiciaire.
+- les dispositions générales : la tentative, la coaction et la complicité ;
 
-Le sursis.
+- la responsabilité pénale des personnes morales ;
 
-Les peines, leur exécution, la libération conditionnelle.
+- les causes d'irresponsabilité ou d'atténuation de la responsabilité.
 
-L'extinction des peines.
+Les peines :
 
-Les infractions prévues par les articles 319, 320 et R. 40 (4°) du code pénal.
+- la classification légale ;
 
-Les infractions à la police de la circulation routière.
+- le concours d'infractions ;
+
+- la récidive ;
+
+- la réitération d'infractions.
+
+Droit pénal spécial
+
+Les crimes et délits contre les personnes :
+
+- les atteintes à la vie de la personne ;
+
+- les atteintes à l'intégrité physique ou psychique de la personne ;
+
+- la mise en danger de la personne ;
+
+- les atteintes aux libertés de la personne ;
+
+- les atteintes à la dignité de la personne ;
+
+- les atteintes à la personnalité ;
+
+- les atteintes aux mineurs et à la famille.
+
+Les crimes et délits contre les biens :
+
+- le vol ;
+
+- l'extorsion ;
+
+- l'escroquerie et les infractions voisines ;
+
+- les détournements ;
+
+- le recel et les infractions assimilées ou voisines ;
+
+- les destructions, dégradations et détériorations ;
+
+- les atteintes aux systèmes de traitement automatisé de données.
+
+Les crimes et délits contre la nation, l'Etat et la paix publique :
+
+- les atteintes à l'administration publique commises par des personnes exerçant
+une fonction publique ;
+
+- les atteintes à l'administration publique commises par des particuliers ;
+
+- les atteintes à l'action de la justice ;
+
+- les atteintes à la confiance publique ;
+
+- la participation à une association de malfaiteurs.
+
+La falsification de moyens de paiement.
+
+Les infractions au régime des matériels de guerre, des armes et des munitions.
+
+Les infractions délictuelles à la circulation routière.
 
 Libertés publiques
 
-Introduction générale aux libertés publiques (sources, régime juridique,
-garanties et protection des libertés publiques).
+Introduction générale aux libertés publiques.
 
 Les libertés individuelles et la vie privée :
 
-- la sûreté ou liberté individuelle ;
+- la sûreté ;
 
 - la liberté d'aller et venir ;
 
 - le respect de la vie privée, du domicile et des correspondances ;
 
-- le respect de la personne et les lois antidiscriminatoires.
+- le respect de la personne et les lois anti-discriminatoires ;
 
-Les libertés d'expression collective :
+- la CNIL.
 
-- la liberté d'association ;
-
-- la liberté de réunion ;
+Les libertés d'expression collectives :
 
 - le régime des manifestations ;
 
-- le régime des attroupements.
+- le régime des attroupements ;
 
-La liberté de la presse.
-
-Les libertés à contenu économique et social :
-
-- la liberté syndicale ;
-
-- le droit de grève ;
-
-- la liberté du commerce et de l'industrie.
-
-Les libertés contemporaines :
-
-- la motivation des décisions administratives ;
-
-- l'accès aux documents administratifs ;
-
-- l'informatique et les libertés.
-
-Droit administratif.
-
-La hiérarchie des normes de droit.
-
-La loi et le règlement (élaboration et contrôle).
-
-L'organisation juridictionnelle :
-
-- les juridictions de l'ordre judiciaire (juridictions de droit commun et
-juridictions d'exception) ;
-
-- les juridictions de l'ordre administratif (notions de procédure contentieuse)
-;
-
-- le tribunal des conflits ;
-
-- les voies de recours.
-
-L'organisation territoriale :
-
-- notions de décentralisation et déconcentration ;
-
-- les collectivités territoriales (commune, département, région) ;
-
-- la représentation de l'Etat dans chaque collectivité territoriale ;
-
-- le préfet.
+- la liberté de la presse.
