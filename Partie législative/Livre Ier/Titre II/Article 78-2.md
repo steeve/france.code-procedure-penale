@@ -3,8 +3,8 @@ Article 78-2
 Les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de
 ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints
 mentionnés aux articles 20 et 21-1° peuvent inviter à justifier, par tout moyen,
-de son identité toute personne à l'égard de laquelle existe un indice faisant
-présumer :
+de son identité toute personne à l'égard de laquelle existe une ou plusieurs
+raisons plausibles de soupçonner :
 
 - qu'elle a commis ou tenté de commettre une infraction ;
 
@@ -42,7 +42,9 @@ révèle une infraction autre que celle de non-respect des obligations susvisée
 ne constitue pas une cause de nullité des procédures incidentes.
 
 Dans une zone comprise entre les frontières terrestres ou le littoral du
-département de la Guyane et une ligne tracée à vingt kilomètres en-deçà,
-l'identité de toute personne peut être contrôlée, selon les modalités prévues au
-premier alinéa, en vue de vérifier le respect des obligations de détention, de
-port et de présentation des titres et documents prévus par la loi.
+département de la Guyane et une ligne tracée à vingt kilomètres en-deçà, et sur
+une ligne tracée à cinq kilomètres de part et d'autre, ainsi que sur la route
+nationale 2 sur le territoire de la commune de Régina, l'identité de toute
+personne peut être contrôlée, selon les modalités prévues au premier alinéa, en
+vue de vérifier le respect des obligations de détention, de port et de
+présentation des titres et documents prévus par la loi.
