@@ -1,19 +1,28 @@
 Article D520
 ----
-Le premier président de la cour d'appel désigne par ordonnance, après avis de
-l'assemblée générale des magistrats du siège, le président ou le conseiller de
-la cour d'appel chargé de présider la juridiction régionale de la libération
-conditionnelle. Dans la mesure du possible, ce magistrat est choisi parmi les
-conseillers chargés de l'application des peines.
+Tout mineur détenu peut demander à bénéficier d'une mesure de protection
+individuelle.
 
-Le premier président de la cour d'appel désigne chaque année, par ordonnance,
-les juges de l'application des peines chargés des fonctions d'assesseur de la
-juridiction régionale de la libération conditionnelle. Ceux-ci, sous réserve des
-dispositions du deuxième alinéa de l'article 722-1, sont appelés dans l'ordre de
-leur désignation. Cette ordonnance peut être modifiée en cours d'année, en cas
-d'absence ou d'empêchement du juge.
+Le chef d'établissement peut faire droit à cette demande s'il estime que les
+circonstances de la détention ou la personnalité du mineur nécessitent la mise
+en oeuvre de mesures de protection particulières. Il s'attache à recueillir
+préalablement l'avis de l'équipe pluridisciplinaire.
 
-La juridiction régionale est dotée d'un secrétariat-greffe. Les fonctions de
-secrétaire et de greffier de la juridiction sont remplies par un greffier de la
-cour d'appel. Sauf dérogation prévue par décret, le siège de la juridiction
-régionale est celui de la cour d'appel.
+Le mineur détenu bénéficiant d'une mesure de protection individuelle fait
+l'objet d'un suivi éducatif renforcé et peut être momentanément dispensé de tout
+ou partie de la vie collective.
+
+Cette mesure ne suspend pas l'exercice de ses droits et notamment les droits de
+visite et de correspondance, de promenade, de cantine, d'accès à l'enseignement
+et au culte.
+
+La mise sous protection individuelle est d'une durée maximale de six jours,
+renouvelable une fois. La durée de cette mesure ne peut excéder douze jours par
+période de détention de quatre mois. Le chef d'établissement peut y mettre fin à
+tout moment après avoir entendu l'intéressé et recueilli l'avis de l'équipe
+pluridisciplinaire. Il est tenu d'y mettre fin si l'intéressé le demande.
+
+La décision de mise sous protection individuelle et sa levée sont portées à la
+connaissance des titulaires de l'autorité parentale ou des représentants légaux
+du mineur et du magistrat saisi du dossier de l'information ou en charge de
+l'application des peines.

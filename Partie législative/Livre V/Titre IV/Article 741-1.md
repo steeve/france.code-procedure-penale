@@ -1,9 +1,11 @@
 Article 741-1
 ----
-Si le condamné est en fuite, le juge de l'application des peines peut décerner
-un ordre de recherche. Le condamné qui fait l'objet de cet ordre est conduit
-devant le juge de l'application des peines du lieu où il est trouvé ou, si ce
-magistrat ne peut procéder immédiatement à son audition, devant le procureur de
-la République. Lorsque le condamné n'a pas été conduit devant le juge de
-l'application des peines qui a lui-même ordonné les recherches, un procès-verbal
-de ses déclarations est transmis sans délai à ce magistrat.
+En cas d'incarcération pour une condamnation à une peine d'emprisonnement
+assortie pour partie du sursis avec mise à l'épreuve, il est remis au condamné
+avant sa libération un avis de convocation à comparaître devant le service
+pénitentiaire d'insertion et de probation dans un délai qui ne saurait être
+supérieur à huit jours à compter de sa libération s'il s'agit d'une personne
+condamnée ou ayant été condamnée pour une infraction pour laquelle le suivi
+socio-judiciaire est encouru et qui ne saurait être supérieur à un mois dans les
+autres cas. Le service pénitentiaire d'insertion et de probation est alors saisi
+de la mesure de sursis avec mise à l'épreuve.

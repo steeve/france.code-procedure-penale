@@ -1,14 +1,16 @@
 Article 763-8
 ----
-Lorsque le suivi socio-judiciaire est prononcé par une juridiction spéciale des
-mineurs, le juge des enfants, le tribunal pour enfants et la chambre spéciale
-des mineurs exercent les attributions dévolues par le présent titre au juge de
-l'application des peines, au tribunal correctionnel et à la chambre des appels
-correctionnels, jusqu'à la fin de la mesure de suivi socio-judiciaire, sauf si
-le juge des enfants se dessaisit au profit du juge de l'application des peines.
+Lorsqu'un suivi socio-judiciaire a été prononcé à l'encontre d'une personne
+condamnée à une réclusion criminelle d'une durée égale ou supérieure à quinze
+ans pour l'une des infractions visées à l'article 706-53-13, la juridiction
+régionale de la rétention de sûreté peut, selon les modalités prévues par
+l'article 706-53-15, décider de prolonger tout ou partie des obligations
+auxquelles est astreinte la personne, au-delà de la durée prononcée par la
+juridiction de jugement et des limites prévues à l'article 131-36-1 du code
+pénal, en la plaçant sous surveillance de sûreté pour une durée de deux ans.
 
-Le juge des enfants désigne un service du secteur public de la protection
-judiciaire de la jeunesse pour veiller au respect des obligations imposées au
-condamné. Lorsque ce dernier a atteint l'âge de sa majorité, le juge des enfants
-peut désigner à cette fin le service pénitentiaire d'insertion et de probation ;
-il peut également se dessaisir au profit du juge de l'application des peines.
+Les dispositions des deuxième à septième alinéas de l'article 723-37 du présent
+code sont applicables, ainsi que celles de l'article 723-38.
+
+Le présent article est applicable y compris si la personne placée sous suivi
+socio-judiciaire avait fait l'objet d'une libération conditionnelle.

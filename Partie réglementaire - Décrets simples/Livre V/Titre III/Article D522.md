@@ -11,4 +11,4 @@ qu'ils sont admissibles à la libération conditionnelle.
 Ce fichier est présenté au juge de l'application des peines ainsi qu'aux
 autorités judiciaires et administratives inspectant ces établissements. Il peut
 être également présenté, sur leur demande, aux parlementaires visitant des
-établissements en application de l'article 720-1-A.
+établissements en application de l'article 719.

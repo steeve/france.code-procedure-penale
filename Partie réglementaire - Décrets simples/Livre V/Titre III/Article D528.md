@@ -1,20 +1,19 @@
 Article D528
 ----
-Le débat contradictoire tenu devant la juridiction régionale de la libération
-conditionnelle fait l'objet d'un procès-verbal, qui est signé par le président
-de la juridiction et par son greffier.
+Tout jugement ou arrêt ordonnant une libération conditionnelle est motivé
+conformément aux dispositions des articles 712-4,712-13 et 729, ainsi que de
+celles du présent article.
 
-La juridiction régionale de la libération conditionnelle statue par jugement
-rendu en chambre du conseil.
+Il vise le procès-verbal de débat contradictoire dans lequel est mentionné le
+sens des réquisitions du ministère public.
 
-L'appel du jugement est formé soit au greffe de la juridiction régionale de la
-libération conditionnelle selon les modalités prévues aux deux premiers alinéas
-de l'article 502, soit selon les modalités prévues à l'article 503.
+Il précise les garanties de représentation et de resocialisation de la personne
+concernant notamment sa résidence ou son domicile et l'origine, la nature et
+l'importance des revenus dont elle pourra bénéficier.
 
-Les dispositions des premier, troisième, sixième, septième et neuvième alinéas
-de l'article D. 116-9, et des articles D. 116-11 et D. 116-12 sont applicables
-devant la juridiction régionale. Les débats contradictoires de la juridiction
-régionale ont lieu au sein de l'établissement pénitentiaire ou au siège de la
-cour d'appel, selon les distinctions prévues aux trois premiers alinéas de
-l'article D. 116-8, et les dispositions du dernier alinéa de cet article sont
-applicables.
+Il mentionne l'ensemble des mesures et conditions imposées au condamné, qu'il
+s'agisse des mesures et conditions obligatoires ou des conditions particulières.
+
+Les modalités pratiques d'exécution de ces mesures et conditions peuvent être
+précisées ultérieurement par une instruction adressée par le juge de
+l'application des peines au service chargé de suivre le condamné.

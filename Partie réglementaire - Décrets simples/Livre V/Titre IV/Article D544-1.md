@@ -1,6 +1,5 @@
 Article D544-1
 ----
-La notification des mesures d'administration judiciaire mentionnées à l'article
-733-1 est faite à la diligence du juge de l'application des peines qui adresse
-au procureur de la République une copie de la décision dès que celle-ci a été
-prise.
+Pour l'application des dispositions de l'article R. 69, un extrait des décisions
+révoquant un sursis prises en application de l'article 735 est adressé au casier
+judiciaire par le ministère public.

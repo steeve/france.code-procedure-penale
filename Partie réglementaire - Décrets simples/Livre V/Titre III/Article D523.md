@@ -6,8 +6,8 @@ situation des condamnés ayant vocation à la libération conditionnelle pour qu
 ces derniers puissent être éventuellement admis au bénéfice de la mesure dès
 qu'ils remplissent les conditions prévues par la loi. Dans le cas prévu au
 deuxième alinéa de l'article 730, le juge de l'application des peines peut
-saisir la juridiction régionale de la libération conditionnelle s'il estime que
-la mesure peut être accordée.
+saisir le tribunal de l'application des peines s'il estime que la mesure peut
+être accordée.
 
 Sauf s'il est envisagé d'assortir le bénéfice de la mesure de l'une des
 conditions prévues aux 3° et 4° de l'article D. 535, l'examen prévu à l'alinéa
