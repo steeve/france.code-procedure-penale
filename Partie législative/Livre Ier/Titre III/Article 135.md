@@ -1,9 +1,5 @@
 Article 135
 ----
-Le juge d'instruction ne peut délivrer un mandat de dépôt qu'après
-interrogatoire et si l'infraction comporte une peine d'emprisonnement
-correctionnelle ou une autre peine plus grave.
-
 En matière criminelle et en matière correctionnelle, les mandats de dépôt ne
 peuvent être décernés qu'en exécution de l'ordonnance prévue à l'article 145.
 

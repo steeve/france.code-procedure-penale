@@ -1,7 +1,8 @@
 Article 454
 ----
-Après chaque déposition, le président pose au témoin les questions qu'il juge
-nécessaires, et, s'il y a lieu, celles qui lui sont proposées par les parties.
+Après chaque déposition, le président et, dans les conditions prévues à
+l'article 442-1, le ministère public et les parties posent au témoin les
+questions qu'ils jugent nécessaires.
 
 Le témoin peut se retirer après sa déposition, à moins que le président n'en
 décide autrement.

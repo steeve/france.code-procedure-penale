@@ -1,11 +1,10 @@
 Article 183
 ----
-Les et ordonnances de règlement sont portées à la connaissance de la personne
-mise en examen et de la personne bénéficiant des dispositions de l'article 104
-et les ordonnances de renvoi ou de transmission des pièces au procureur général
-à la connaissance de la partie civile ; la notification est effectuée dans les
-délais les plus brefs soit verbalement, avec émargement au dossier de la
-procédure, soit par lettre recommandée.
+Les ordonnances de règlement sont portées à la connaissance de la personne mise
+en examen et du témoin assisté et les ordonnances de renvoi ou de mise en
+accusation à la connaissance de la partie civile ; la notification est effectuée
+dans les délais les plus brefs soit verbalement, avec émargement au dossier de
+la procédure, soit par lettre recommandée.
 
 Sous réserve de l'application de l'article 145, premier alinéa, les décisions
 qui sont susceptibles de faire l'objet de voies de recours de la part d'une

@@ -1,12 +1,18 @@
 Article 716
 ----
 Les personnes mises en examen, prévenus et accusés soumis à la détention
-provisoire sont placés au régime de l'emprisonnement individuel de jour et de
-nuit. Il ne peut être dérogé à ce principe qu'en raison de la distribution
-intérieure des maisons d'arrêt ou de leur encombrement temporaire ou, si les
-intéressés ont demandé à travailler, en raison des nécessités d'organisation du
-travail.
+provisoire sont placés en cellule individuelle. Il ne peut être dérogé à ce
+principe que dans les cas suivants :
 
-Toutes communications et toutes facilités compatibles avec les exigences de la
-discipline et de la sécurité de la prison sont accordées aux personnes mises en
-examen, prévenus et accusés pour l'exercice de leur défense.
+1° Si les intéressés en font la demande ;
+
+2° Si leur personnalité justifie, dans leur intérêt, qu'ils ne soient pas
+laissés seuls ;
+
+3° S'ils ont été autorisés à travailler ou à suivre une formation
+professionnelle ou scolaire et que les nécessités d'organisation l'imposent.
+
+Lorsque les personnes mises en examen, prévenus et accusés sont placés en
+cellule collective, les cellules doivent être adaptées au nombre des personnes
+détenues qui y sont hébergées. Celles-ci doivent être aptes à cohabiter. Leur
+sécurité et leur dignité doivent être assurées.
