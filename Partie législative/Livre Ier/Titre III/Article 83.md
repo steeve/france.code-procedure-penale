@@ -12,7 +12,7 @@ d'instruction qu'il désigne, soit dès l'ouverture de l'information, soit sur l
 demande du juge chargé de l'information, à tout moment de la procédure.
 
 Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul
-qualité pour saisir la chambre prévue par l'article 137-1 et pour rendre
+qualité pour statuer en matière de détention provisoire et pour rendre
 l'ordonnance de règlement.
 
 Les désignations prévues au présent article sont des mesures d'administration
