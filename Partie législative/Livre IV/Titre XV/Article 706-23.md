@@ -1,17 +1,6 @@
 Article 706-23
 ----
-Pour l'application des articles 63, 77 et 154, si les nécessités de l'enquête ou
-de l'instruction relatives à l'une des infractions entrant dans le champ
-d'application de l'article 706-16 l'exigent, la garde à vue d'une personne
-majeure peut faire l'objet d'une prolongation supplémentaire de quarante-huit
-heures. Cette prolongation est autorisée soit, à la requête du procureur de la
-République, par le juge des libertés et de la détention, soit, dans les cas
-prévus par les articles 72 et 154, par le juge d'instruction.
-
-L'intéressé doit être présenté à l'autorité qui statue sur la prolongation
-préalablement à sa décision.
-
-Dans le cas où la prolongation est décidée, un examen médical est de droit. Le
-procureur de la République ou, dans les cas prévus par les articles 72 et 154,
-le juge d'instruction est compétent pour désigner le médecin chargé de cet
-examen.
+L'arrêt d'un service de communication au public en ligne peut être prononcé par
+le juge des référés pour les faits prévus à l'article 421-2-5 du code pénal
+lorsqu'ils constituent un trouble manifestement illicite, à la demande du
+ministère public ou de toute personne physique ou morale ayant intérêt à agir.
