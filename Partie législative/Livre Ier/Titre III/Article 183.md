@@ -1,15 +1,15 @@
 Article 183
 ----
-Les décisions et ordonnances de règlement sont portées à la connaissance de
-l'inculpé et les décisions et ordonnances de renvoi ou de transmission des
-pièces au procureur général à la connaissance de la partie civile ; la
-notification est effectuée dans les délais les plus brefs soit verbalement, avec
-émargement au dossier de la procédure, soit par lettre recommandée.
+Les ordonnances de règlement sont portées à la connaissance de l'inculpé et les
+ordonnances de renvoi ou de transmission des pièces au procureur général à la
+connaissance de la partie civile ; la notification est effectuée dans les délais
+les plus brefs soit verbalement, avec émargement au dossier de la procédure,
+soit par lettre recommandée.
 
-Sous réserve de l'application du premier alinéa de l'article 145, les décisions
-et ordonnances qui sont susceptibles de faire l'objet de voies de recours de la
-part de l'inculpé, de la partie civile ou d'un tiers conformément aux articles
-99, 186 et 186-1 leur sont notifiées dans les délais les plus brefs soit
+Sous réserve de l'application de l'article 145, premier et deuxième alinéas, les
+décisions qui sont susceptibles de faire l'objet de voies de recours de la part
+de l'inculpé, de la partie civile ou d'un tiers conformément aux articles 99,
+186 et 186-1 leur sont notifiées dans les délais les plus brefs soit
 verbalement, avec émargement au dossier de la procédure, soit par lettre
 recommandée. Si l'inculpé est détenu, elles peuvent, également être portées à sa
 connaissance par les soins du chef de l'établissement pénitentiaire qui adresse,
