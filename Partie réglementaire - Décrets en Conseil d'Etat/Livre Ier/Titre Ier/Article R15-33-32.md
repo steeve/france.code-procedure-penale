@@ -1,10 +1,5 @@
-Article R15-35
+Article R15-33-32
 ----
-La personne physique ou morale, selon qu'elle désire être habilitée à procéder à
-des enquêtes de personnalité dans le ressort du tribunal de grande instance ou
-dans celui de la cour d'appel, en fait la demande au doyen des juges
-d'instruction ou au président de la chambre de l'instruction.
-
 La demande présentée par une association comporte notamment :
 
 1° La copie du Journal officiel portant publication de la déclaration de
@@ -18,14 +13,14 @@ tribunal d'instance ;
 
 4° Un exposé indiquant les conditions de fonctionnement de l'association et, le
 cas échéant, l'organisation et les conditions de fonctionnement des comités
-locaux, ainsi que leurs rapports avec l'association ;
+locaux ainsi que leurs rapports avec l'association ;
 
 5° La mention des nom, prénoms, date et lieu de naissance, nationalité,
 profession et domicile des membres du conseil d'administration et du bureau de
 l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
 
 6° Les pièces financières qui doivent comprendre les comptes du dernier
-exercice, le budget de l'exercice courant et un bilan ou un état de l'actif
+exercice, le budget de l'exercice courant et un bilan ou état de l'actif
 mobilier et immobilier et du passif ;
 
 7° La liste des personnes physiques qui, au sein de l'association, doivent
