@@ -8,3 +8,6 @@ trimestre et plus souvent s'il y a lieu, notamment pour entendre les détenus qu
 auraient des réclamations à présenter.
 
 Il rend compte de ses observations éventuelles au procureur général.
+
+Le procureur général visite chaque établissement pénitentiaire du ressort de la
+cour d'appel, au moins une fois par an.

@@ -1,0 +1,16 @@
+Article D473
+----
+Les visiteurs de prison sont agréés, pour une période de deux ans renouvelable,
+aux fins d'accès auprès des détenus d'un ou de plusieurs établissements
+déterminés.
+
+L'agrément est accordé par le directeur régional, après avis du préfet et du
+juge de l'application des peines.
+
+L'agrément est retiré par le directeur régional soit d'office après avoir
+recueilli l'avis du juge de l'application des peines, soit à la demande de ce
+dernier ou du procureur de la République.
+
+En cas d'urgence, et pour des motifs graves, l'agrément peut être suspendu par
+le chef d'établissement, qui en avise sans délai le directeur régional, pour
+décision.
