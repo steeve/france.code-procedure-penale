@@ -6,9 +6,8 @@ condamné est détenu ou doit être incarcéré l'extrait de jugement ou d'arrê
 notice individuelle visée à l'article D. 158 et, s'il y a lieu, la copie de la
 décision sur les intérêts civils conformément à l'article D. 325.
 
-Lorsque la peine privative de liberté prononcée est supérieure à deux ans pour
-les majeurs, et six mois pour les mineurs, le ministère public adresse en outre
-à l'établissement pénitentiaire, les pièces suivantes :
+Le ministère public adresse en outre à l'établissement pénitentiaire, les pièces
+suivantes :
 
 1° La copie du rapport de l'enquête ou des enquêtes sur la personnalité, la
 situation matérielle, familiale ou sociale de l'intéressé, qui auraient été
@@ -21,13 +20,13 @@ d'une décision judiciaire ;
 
 3° La copie du réquisitoire définitif et de la décision de condamnation ;
 
-4° Et, s'il y a lieu, les avis indiqués à l'article D. 78.
+4° Et, s'il y a lieu, les avis indiqués à l'article D. 78 ;
 
-Ces pièces doivent être envoyées dans le mois qui suit la date à compter de
-laquelle la condamnation est devenue définitive lorsque l'intéressé est détenu
-ou, dans le cas contraire, dans le mois qui suit l'incarcération de celui-ci.
+5° Le bulletin n° 1 du casier judiciaire du condamné.
+
+Ces pièces doivent être envoyées dans les plus brefs délais possibles.
 
 Une copie des documents prévus par le présent article est également adressée par
-le ministère public au juge de l'application des peines compétent ou à son
-secrétariat pour être versé dans le dossier individuel du condamné prévu par
+le ministère public au secrétariat-greffe du juge de l'application des peines
+compétent pour être versé dans le dossier individuel du condamné prévu par
 l'article D. 116-6.
