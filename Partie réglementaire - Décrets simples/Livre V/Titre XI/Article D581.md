@@ -1,10 +1,15 @@
 Article D581
 ----
-Un directeur de probation est désigné par le ministre de la justice parmi les
-personnels mentionnés à l'article D. 580 ou, lorsque l'importance du service le
-justifie, parmi les membres du personnel de direction des services déconcentrés
-de l'administration pénitentiaire ayant une expérience professionnelle dans le
-domaine socio-éducatif.
+Les membres du service pénitentiaire d'insertion et de probation sont tenus au
+secret professionnel dans les conditions prévues par les articles 226-13 et
+226-14 du code pénal.
 
-Il exerce l'autorité hiérarchique sur les personnels du comité de probation et
-d'assistance aux libérés.
+Chaque fois que la demande leur en est faite ou à leur initiative, ils
+fournissent à l'autorité judiciaire ou aux services de l'administration
+pénitentiaire les éléments permettant de mieux individualiser la situation des
+personnes placées sous main de justice.
+
+Dans le cadre de l'exécution des mesures visées à l'article D. 574, les membres
+du service pénitentiaire d'insertion et de probation ne peuvent opposer le
+secret professionnel aux autorités judiciaires, sauf pour les renseignements
+recueillis par voie de confidences auprès des personnes prises en charge.

@@ -1,12 +1,10 @@
 Article D594
 ----
-Les agents de probation sont tenus au secret professionnel dans les conditions
-prévues par les articles 226-13 et 226-14 du Code pénal.
+Les modalités d'exercice du droit des personnes suspectées ou poursuivies à
+l'assistance d'un interprète et à la traduction des pièces essentielles à
+l'exercice de la défense prévu par l'article préliminaire et par l'article 803-5
+sont, sans préjudice de l'application des dispositions législatives du présent
+code, et notamment de ses articles 62,63-1,102
 
-L'obligation de secret s'étend aux autres membres du comité de probation pour
-tous les faits qu'ils ont pu connaître à l'occasion ou dans l'exercice de leurs
-fonctions.
-
-Toutefois, les membres du comité de probation ne peuvent opposer le secret à
-l'autorité judiciaire, sauf pour les renseignements recueillis par voie de
-confidences auprès des personnes prises en charge.
+,114,121,272,279,344,393,407,535,695-27,695-30 et 706-71, précisées par les
+dispositions du présent chapitre.

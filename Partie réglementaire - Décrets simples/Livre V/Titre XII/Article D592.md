@@ -1,8 +1,6 @@
 Article D592
 ----
-Les dépenses de matériel, d'entretien et de documentation font partie des
-dépenses du tribunal de grande instance.
-
-Les règles régissant les personnels des services déconcentrés du ministère de la
-justice sont applicables aux dépenses entraînées par les missions, tournées et
-transports des agents de probation pour les besoins de leur service.
+Les dispositions de l'article D. 591 sont également applicables aux dépôts des
+mémoires devant la chambre de l'instruction, prévus par le deuxième alinéa de
+l'article 198, lorsqu'un protocole a été passé à cette fin entre les chefs de la
+cour d'appel et le barreau.
