@@ -6,7 +6,11 @@ instructeur tous actes lui paraissant utiles à la manifestation de la vérité 
 toutes mesures de sûreté nécessaires.
 
 Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendre
-dans les vingt-quatre heures.
+dans les vingt-quatre heures [*délai*].
+
+S'il requiert le placement ou le maintien en détention provisoire de la personne
+mise en examen, ses réquisitions doivent être écrites et motivées par référence
+aux seules dispositions de l'article 144.
 
 Si le juge d'instruction ne suit pas les réquisitions du procureur de la
 République, il doit, sauf dans les cas prévus par le second alinéa de l'article
