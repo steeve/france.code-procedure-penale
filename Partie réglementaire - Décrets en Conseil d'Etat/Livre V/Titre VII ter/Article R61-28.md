@@ -1,11 +1,8 @@
 Article R61-28
 ----
-Pour l'habilitation des associations désirant mettre en oeuvre des travaux
-d'intérêt général spécifiquement adaptés aux mineurs, le juge des enfants, avant
-de communiquer la demande au président du tribunal, saisit le directeur
-départemental de l'éducation surveillée. Celui-ci fait connaître par écrit son
-avis sur les garanties offertes par l'association.
-
-Le directeur départemental de l'éducation surveillée peut également recueillir
-toute demande d'habilitation, qu'il transmet au juge des enfants, assortie de
-l'avis prévu à l'alinéa précédent.
+Le contrôle du respect de ses obligations par la personne placée sous
+surveillance électronique mobile se fait notamment par vérifications
+téléphoniques, visites aux lieux d'assignation, convocations au service
+pénitentiaire d'insertion et de probation ainsi que par l'exploitation des
+informations enregistrées par le traitement automatisé prévu à l'article R.
+61-12.
