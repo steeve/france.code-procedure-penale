@@ -41,45 +41,26 @@ conducteurs non salariés du transport routier public de marchandises ;
 g) L'article 19-II du décret n° 99-752 du 30 août 1999 modifié relatif aux
 transports routiers de marchandises ;
 
-h) L'article 16 et les premier et deuxième alinéas de l'article 17 du décret n°
-2002-747 du 2 mai 2002 relatif à la formation professionnelle initiale et
-continue des conducteurs salariés du transport routier public interurbain de
-voyageurs et des conducteurs salariés et non salariés du transport routier
-public de marchandises ;
-
-i) L'article 25 et les premier et deuxième alinéas de l'article 26 du décret n°
-2004-1186 du 8 novembre 2004 relatif à la formation professionnelle initiale et
-continue des conducteurs salariés du transport routier privé de marchandises,
-des conducteurs salariés et non salariés du transport routier public de
-marchandises et des conducteurs salariés du transport routier public interurbain
-de voyageurs.
-
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
 a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières,
 d'ordures ou de déchets dans les bois, forêts et terrains à boiser ;
 
-b) Les articles R. 331-63 à R. 331-66, l'article R. 331-68 du code de
-l'environnement relatifs aux parcs nationaux et les articles R332-69 à R332-72
-du même code relatifs aux réserves naturelles ;
+b) Les articles R. 241-61, R. 241-62 (2°), R. 241-63 (1° et 2°) du code rural
+relatifs aux parcs nationaux, ainsi que l'article R. 241-66 de ce même code en
+ce qu'il concerne les faits mentionnés par ces mêmes articles ;
 
-c) L'article R. 322-5 et le second alinéa de l'article R. 322-5-1 du code
-forestier relatif à la protection contre l'incendie, l'alinéa premier de
-l'article R. 331-3 du même code relatif à l'introduction dans les bois, forêts
-et terrains à boiser de véhicules, bestiaux, animaux de charge ou de monture et
-l'article R. 133-5 du même code relatif à l'aménagement prescrit par l'article
-L. 133-1 des bois et forêts du domaine de l'Etat, les articles R. 137-4, R.
-138-20, R. 331-1 et 331-2 du code forestier relatifs aux prélèvements de
-produits de la forêt sans autorisation du propriétaire ;
+c) L'article R. 322-5 du code forestier relatif à la protection contre
+l'incendie, l'alinéa premier de l'article R. 331-3 du même code relatif à
+l'introduction dans les bois, forêts et terrains à boiser de véhicules,
+bestiaux, animaux de charge ou de monture et l'article R. 133-1-1 du même code
+relatif à l'aménagement prescrit par l'article L. 133-1 des bois et forêts du
+domaine de l'Etat ;
 
 d) L'article 10 (deuxième alinéa) du décret n° 2000-1302 du 26 décembre 2000
 relatif aux mesures de protection de l'environnement contre les émissions
 polluantes des moteurs à allumage par compression destinés à équiper les engins
 mobiles non routiers ;
-
-e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions
-constatées par la garderie du domaine du Conservatoire de l'espace littoral et
-des rivages lacustres et les agents visés à l'article L. 322-20 du même code.
 
 4° Contraventions en matière de protection ou de contrôle des animaux
 domestiques et des animaux sauvages, apprivoisés ou tenus en captivité réprimées
@@ -105,11 +86,14 @@ où se pratiquent de façon habituelle l'élevage en vue de la vente, la
 commercialisation, le toilettage, le transit ou la garde de ces animaux pris
 pour l'application des articles 276, 276-2 et 276-3 du code rural ;
 
-g) Les articles R. 215-6 et R. 215-7 du code rural ;
+g) Les articles 12 et 13 du décret n° 95-1285 du 13 décembre 1995 relatif à la
+protection des animaux en cours de transport ;
 
-h) L'article R. 215-8 du code rural ;
+h) L'article 21 (b et c) du décret n° 97-903 du 1er octobre 1997 relatif à la
+protection des animaux au moment de leur abattage ou de leur mise à mort ;
 
-i) L'article R. 215-2 du code rural ;
-
-5° Contraventions réprimées par le code des postes et des communications
-électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.
+i) L'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'application
+du chapitre III du titre II du livre II du code rural, et relatifs à
+l'application des articles L. 211-14 et L. 211-16 du code rural prévoyant la
+déclaration en mairie, la vaccination, la stérilisation, l'assurance et les
+conditions de circulation de certains chiens.
