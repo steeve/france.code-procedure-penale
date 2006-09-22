@@ -6,7 +6,7 @@ d'assises énumérées ci-dessous est fixé comme suit :
 
 DÉPARTEMENTS
 
-NOMBRE DE JURÉS figurant sur la liste annuelle
+NOMBRE DE JURÉSfigurant sur la liste annuelle
 
 Alpes-Maritimes
 
@@ -40,7 +40,7 @@ Guadeloupe
 
 450
 
-Guyane
+(Arr. 26 mai 2004, art. 2, 1°) Guyane
 
 400
 
@@ -60,7 +60,7 @@ Indre
 
 230
 
-Martinique
+(Arr. 26 mai 2004, art. 2, 2°) Martinique
 
 400
 
@@ -79,6 +79,10 @@ Paris
 Savoie
 
 390
+
+(Arr. 13 sept. 2006, art. 2) Seine-et-Marne
+
+1 400
 
 Seine-Saint-Denis
 
