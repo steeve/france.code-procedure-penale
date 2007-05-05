@@ -2,9 +2,9 @@ Article D49-28
 ----
 La commission de l'application des peines qui siège dans chaque établissement
 pénitentiaire comprend, outre les membres de droit mentionnés à l'article 712-5
-(alinéa 3), les membres du personnel de direction, un chef de service
-pénitentiaire, un membre du personnel de surveillance et les travailleurs
-sociaux.
+(alinéa 3), les membres du personnel de direction, un membre du corps de
+commandement et un membre du corps d'encadrement et d'application du personnel
+de surveillance et les travailleurs sociaux.
 
 Le juge de l'application des peines peut, en accord avec le chef de
 l'établissement, faire appel soit à titre permanent, soit pour une séance
