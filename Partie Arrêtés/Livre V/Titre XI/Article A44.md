@@ -198,9 +198,13 @@ Circonscription judiciaire d'Aix-en-Provence.
 
 Antenne d'Arles-Tarascon.
 
-Maison centrale d'Arles.
+(Arr. 13 déc. 2005, art. 5) Centre pénitentiaire d'Arles.
 
-Circonscription judiciaire de Tarascon.
+(Arr. 13 déc. 2005, art. 5) circonscription judiciaire de Tarascon.
+
+(Arr. 13 déc. 2005, art. 5) Centre de détention de Tarascon.
+
+(Arr. 17 sept. 2003, art. 5) Circonscription judiciaire de Tarascon.
 
 Centre de détention de Tarascon.
 
@@ -801,7 +805,7 @@ Antenne de Nancy.
 
 Circonscription judiciaire de Nancy.
 
-Centre pénitentiaire de Nancy-Maxéville
+Maison d'arrêt de Nancy.
 
 Centre de semi-liberté de Maxéville.
 
@@ -885,7 +889,8 @@ Circonscription judiciaire de Nevers.
 
 Maison d'arrêt de Nevers.
 
-Service pénitentiaire d'insertion et de probation du Nord.
+(Arr. 11 sept. 2007, art. 2) Service pénitentiaire d'insertion et de probation
+du Nord.
 
 Lille.
 
@@ -894,8 +899,8 @@ Antenne de Lille-Loos-Sequedin.
 Circonscription judiciaire de Lille.
 
 Centre pénitentiaire de Lille-Loos-Sequedin (quartier maison d'arrêt de
-Sequedin, quartier maison d'arrêt de Loos, quartier centre de détention de Loos,
-quartier de semi-liberté d'Haubourdin).
+Sequedin, quartier maison d'arrêt de Loos et quartier centre de détention de
+Loos). Centre de semi-liberté d'Haubourdin.
 
 Antenne d'Avesnes-sur-Helpe-Maubeuge.
 
@@ -927,17 +932,22 @@ Beauvais.
 
 Antenne de Beauvais.
 
-Sans changement.
+Circonscription judiciaire de Beauvais.
+
+Maison d'arrêt de Beauvais.
 
 Antenne de Compiègne.
 
-Sans changement.
+Circonscription judiciaire de Compiègne.
 
-Antenne de Liancourt.
+Maison d'arrêt de Compiègne.
 
-Sans changement.
+(Arr. 1 er oct. 2004, art. 2) Antenne de Liancourt.
 
-Antenne de Creil.
+Centre pénitentiaire de Liancourt (quartier centre de détention de Verderonne
+inclus).
+
+Antenne de Senlis.
 
 Circonscription judiciaire de Senlis.
 
@@ -1091,7 +1101,13 @@ Antenne de Lyon.
 
 Circonscription judiciaire de Lyon.
 
-Maison d'arrêt de Lyon-Corbas.
+Maison d'arrêt de Lyon-Saint-Paul (quartier maison d'arrêt Saint-Joseph inclus).
+
+(jusqu'au 15 mai 2009).
+
+Maison d'arrêt de Lyon-Montluc (jusqu'au 15 février 2009).
+
+Maison d'arrêt de Lyon-Corbas (à partir du 27 avril 2009).
 
 Centre de semi-liberté de Lyon.
 
@@ -1315,13 +1331,13 @@ Antenne de Toulon.
 (Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Toulon-La Farlède (quartier
 de semi-liberté de Toulon-Saint-Roch inclus).
 
-(Arr. 1er oct. 2004, art. 2) Antenne de Draguignan.
+(Arr. 1 er oct. 2004, art. 2) Antenne de Draguignan.
 
 (Arr. 13 déc. 2005, art. 5) Circonscription judiciaire de Draguignan.
 
 (Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Draguignan.
 
-(Arr. 1er oct. 2004, art. 2) Centre pénitentiaire de Draguignan.
+(Arr. 1 er oct. 2004, art. 2) Centre pénitentiaire de Draguignan.
 
 Service pénitentiaire d'insertion et de probation de Vaucluse.
 
@@ -1361,8 +1377,7 @@ Néant.
 
 Circonscription judiciaire de Poitiers.
 
-Centre pénitentiaire de Poitiers-Vivonne (quartier de semi-liberté de Poitiers
-inclus).
+Maison d'arrêt de Poitiers.
 
 Service pénitentiaire d'insertion et de probation de la Haute-Vienne.
 
@@ -1460,12 +1475,13 @@ Néant.
 
 Circonscription judiciaire de Créteil.
 
-Centre pénitentiaire de Fresnes (quartier pour peines aménagées de Villejuif
-inclus).
+Maison d'arrêt de Fresnes.
 
 Etablissement public de santé national de Fresnes.
 
 Centre national d'observation.
+
+(Arr. 13 déc. 2005, art. 5) Centre pour peines aménagées de Villejuif.
 
 Service pénitentiaire d'insertion et de probation du Val-d'Oise.
 
@@ -1535,14 +1551,14 @@ Antenne du Port.
 
 Centre pénitentiaire du Port.
 
-(Arr. 13 déc. 2005, art. 1er) Service pénitentiaire d'insertion et de probation
+(Arr. 13 déc. 2005, art. 1 er) Service pénitentiaire d'insertion et de probation
 de Mayotte.
 
-(Arr. 13 déc. 2005, art. 1er) Mamoudzou.
+(Arr. 13 déc. 2005, art. 1 er) Mamoudzou.
 
-(Arr. 13 déc. 2005, art. 1er) Néant.
+(Arr. 13 déc. 2005, art. 1 er) Néant.
 
-(Arr. 13 déc. 2005, art. 1er) Circonscription judiciaire du tribunal de première
-instance de Mamoudzou.
+(Arr. 13 déc. 2005, art. 1 er) Circonscription judiciaire du tribunal de
+première instance de Mamoudzou.
 
-(Arr. 13 déc. 2005, art. 1er) Maison d'arrêt de Majicavo.
+(Arr. 13 déc. 2005, art. 1 er) Maison d'arrêt de Majicavo.
