@@ -99,11 +99,11 @@ Vannes
 
 Riom
 
-Riom
-
-Ressorts des tribunaux de grande instance de Riom, Clermont-Ferrand, Aurillac et
-du Puy-en-Velay
-
 Moulins
 
-Ressorts des tribunaux de grande instance de Moulins, Montluçon et Cusset
+Ressorts des tribunaux de grande instance de Moulins, Cusset et Montluçon
+
+Riom
+
+Ressort des tribunaux de grande instance de Riom, Clermont-Ferrand, Aurillac et
+du Puy-en-Velay.
