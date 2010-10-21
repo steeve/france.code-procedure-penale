@@ -43,7 +43,14 @@ h) Les articles 22 et 23 du décret n° 2007-1340 du 11 septembre 2007 relatif �
 la qualification initiale et à la formation continue des conducteurs de certains
 véhicules affectés aux transports routiers de marchandises ou de voyageurs ;
 
-i) Abrogé.
+i) L'article 7 (I [1° et 2°] et II [1°]) du décret n° 2010-1223 du 11 octobre
+2010 relatif au transport public de personnes avec conducteur ;
+
+j) Les articles R. 231-13 (2°) et R. 231-14 (1° et 2°) du code du tourisme ;
+
+k) L'article 5 du décret n° 2008-1455 du 30 décembre 2008 relatif à la
+déclaration et à l'identification de certains engins motorisés non autorisés à
+circuler sur la voie publique.
 
 3° Contraventions en matière de protection de l'environnement réprimées par :
 
@@ -59,12 +66,9 @@ forestier relatif à la protection contre l'incendie, l'alinéa premier de
 l'article R. 331-3 du même code relatif à l'introduction dans les bois, forêts
 et terrains à boiser de véhicules, bestiaux, animaux de charge ou de monture et
 l'article R. 133-5 du même code relatif à l'aménagement prescrit par l'article
-L. 133-1 des bois et forêts du domaine de l'Etat, les
-
-articles R. 137-4, R. 138-20, R. 331-1 et 331-2 du code forestier
-
-relatifs aux prélèvements de produits de la forêt sans autorisation du
-propriétaire ;
+L. 133-1 des bois et forêts du domaine de l'Etat, les articles R. 137-4, R.
+138-20, R. 331-1 et 331-2 du code forestier relatifs aux prélèvements de
+produits de la forêt sans autorisation du propriétaire ;
 
 d) L'article 10 (deuxième alinéa) du décret n° 2000-1302 du 26 décembre 2000
 relatif aux mesures de protection de l'environnement contre les émissions
