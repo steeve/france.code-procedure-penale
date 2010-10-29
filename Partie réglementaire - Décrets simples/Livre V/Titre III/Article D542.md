@@ -1,5 +1,7 @@
 Article D542
 ----
-Les services pénitentiaires d'insertion et de probation sont chargés d'assurer
-la prise en charge des interdits de séjour faisant l'objet des mesures
-d'assistance visées à l'article 131-31 du code pénal.
+Lorsque le tribunal d'application des peines statue sur une demande de
+libération conditionnelle en application des dispositions de l'article 730, il
+peut subordonner celle-ci à une mesure de semi-liberté, de placement à
+l'extérieur ou de placement sous surveillance électronique à titre probatoire
+conformément aux dispositions des articles 723-1 et 723-7.
