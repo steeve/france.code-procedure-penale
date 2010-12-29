@@ -1,5 +1,4 @@
 Article R57-7
 ----
-Avant leur libération les personnes mentionnées à l'article R. 57-5 font l'objet
-d'un examen psychiatrique en vue de préparer, le cas échéant, une prise en
-charge post-pénale adaptée.
+Les fautes disciplinaires sont classées selon leur gravité, selon les
+distinctions prévues aux articles R. 57-7-1 à R. 57-7-3, en trois degrés.

@@ -1,14 +1,15 @@
 Article R57-9-6
 ----
-Le directeur interrégional des services pénitentiaires est l'autorité compétente
-pour se prononcer sur la demande d'agrément, sur proposition du chef
-d'établissement pénitentiaire qui procède à son instruction et veille notamment
-à ce que celle-ci n'ait pas pour but de contourner les règles régissant
-l'exercice des droits de visite. Le directeur interrégional des services
-pénitentiaires peut, préalablement à la délivrance de l'agrément, faire
-diligenter une enquête administrative dans les conditions prévues par le décret
-n° 2005-1124 du 6 septembre 2005.
+Les personnes détenues peuvent s'entretenir, à leur demande, aussi souvent que
+nécessaire, avec les aumôniers de leur confession. Aucune mesure ni sanction ne
+peut entraver cette faculté.
 
-Le mandataire agréé lorsqu'il aura été choisi par une personne placée en
-détention provisoire doit solliciter également la délivrance de l'autorisation
-prévue à l'article 145-4.
+L'entretien a lieu, en dehors de la présence d'un surveillant, soit dans un
+parloir, soit dans un local prévu à cet effet, soit dans la cellule de la
+personne détenue et, si elle se trouve au quartier disciplinaire, dans un local
+déterminé par le chef d'établissement.
+
+Les personnes détenues occupées à une activité collective de travail qui
+demandent à s'entretenir avec un aumônier bénéficient de cet entretien en dehors
+des heures de travail, ou, à titre exceptionnel, en interrompant leur activité,
+si cette interruption n'affecte pas l'activité des autres personnes détenues.
