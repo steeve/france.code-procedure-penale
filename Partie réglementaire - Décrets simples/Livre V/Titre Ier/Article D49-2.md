@@ -45,8 +45,8 @@ Boulogne-sur-Mer
 
 Lille
 
-Ressorts des tribunaux de grande instance de Lille, Dunkerque, Hazebrouck,
-Douai, Valenciennes, Cambrai et Avesnes-sur-Helpe
+Ressorts des tribunaux de grande instance de Lille, Dunkerque, Douai,
+Valenciennes, Cambrai et Avesnes-sur-Helpe
 
 Paris
 
@@ -89,8 +89,8 @@ Rennes
 
 Rennes
 
-Ressorts des tribunaux de grande instance de Rennes, Saint-Malo, Guingamp,
-Saint-Brieuc, Dinan, Quimper, Brest et Morlaix
+Ressorts des tribunaux de grande instance de Rennes, Saint-Malo, Saint-Brieuc,
+Quimper et Brest
 
 Nantes
 
@@ -99,11 +99,11 @@ Vannes
 
 Riom
 
+Clermont-Ferrand
+
+Ressorts des tribunaux de grande instance de Clermont-Ferrand, Aurillac et Le
+Puy-en-Velay
+
 Moulins
 
 Ressorts des tribunaux de grande instance de Moulins, Cusset et Montluçon
-
-Riom
-
-Ressort des tribunaux de grande instance de Riom, Clermont-Ferrand, Aurillac et
-du Puy-en-Velay.
