@@ -409,14 +409,13 @@ Départements d'outre-mer
 
 SIÈGE
 
-RESSORT s'étendant aux limites territoriales des tribunaux de grande instance de
-:
+RESSORT S'ÉTENDANT AUX LIMITES TERRITORIALES des tribunaux de grande instance
 
 Cour d'appel de Basse-Terre
 
 Pointe-à-Pitre.
 
-Basse-Terre, Pointe-à-Pitre.
+Basse-Terre, Pointe-à-Pitre
 
 Cour d'appel de Fort-de-France
 
@@ -429,6 +428,10 @@ Cayenne.
 Cayenne.
 
 Cour d'appel de Saint-Denis
+
+Mamoudzou.
+
+Mamoudzou.
 
 Saint-Denis.
 

@@ -526,7 +526,7 @@ Antenne de Rennes.
 
 Circonscription judiciaire de Rennes Centre pénitentiaire de Rennes
 
-Centre pénitentiaire de Rennes-Vezin-le-Coquet (quartier de semi-liberté de
+Centre pénitentiaire de Rennes - Vezin-le-Coquet (quartier de semi-liberté de
 Rennes compris)
 
 Antenne de Saint-Malo.
@@ -1522,14 +1522,12 @@ Antenne du Port.
 
 Centre détention du Port.
 
-(Arr. 13 déc. 2005, art. 1er) Service pénitentiaire d'insertion et de probation
-de Mayotte.
+Service pénitentiaire d'insertion et de probation de Mayotte.
 
-(Arr. 13 déc. 2005, art. 1er) Mamoudzou.
+Mamoudzou.
 
-(Arr. 13 déc. 2005, art. 1er) Néant.
+Néant.
 
-(Arr. 13 déc. 2005, art. 1er) Circonscription judiciaire du tribunal de première
-instance de Mamoudzou.
+Circonscription judiciaire de Mamoudzou.
 
-(Arr. 13 déc. 2005, art. 1er) Maison d'arrêt de Majicavo.
+Maison d'arrêt de Majicavo.
