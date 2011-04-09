@@ -241,7 +241,9 @@ La Rochelle.
 Antenne de La Rochelle-Saint-Martin-de-Ré.
 
 Circonscription judiciaire de La Rochelle, à l'exception des cantons situés dans
-le ressort de l'antenne de Rochefort Maison centrale de Saint-Martin-de-Ré
+le ressort de l'antenne de Rochefort
+
+Maison centrale de Saint-Martin-de-Ré
 
 Antenne de Saintes-Bédenac.
 
@@ -255,7 +257,9 @@ Antenne de Rochefort.
 
 Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes,
 Rochefort-Centre, Rochefort-Nord, Rochefort-Sud, Saint-Agnant, Saint-
-Pierre-d'Oléron, Surgères et Tonnay-Charente Maison d'arrêt de Rochefort
+Pierre-d'Oléron, Surgères et Tonnay-Charente
+
+Maison d'arrêt de Rochefort
 
 Service pénitentiaire d'insertion et de probation du Cher.
 
@@ -276,7 +280,9 @@ Antenne de Tulle.
 Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Egletons, Eygurande, La
 Roche-Canillac, Lapleau, Mercœur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac,
 Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord, Tulle-
-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche Maison d'arrêt de Tulle
+Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche
+
+Maison d'arrêt de Tulle
 
 Antenne de Brive-la-Gaillarde
 
@@ -328,9 +334,10 @@ Saint-Brieuc.
 Antenne de Saint-Brieuc.
 
 Circonscription judiciaire de Saint-Brieuc, à l'exception des cantons situés
-dans le ressort de l'antenne de Guingamp Cantons de Broons, Caulnes, Dinan-Est,
-Dinan-Ouest, Evran, Jugon-les-Lacs, Matignon, Plancoët, Plélan-le-Petit et
-Ploubalay
+dans le ressort de l'antenne de Guingamp
+
+Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Evran, Jugon-les-Lacs,
+Matignon, Plancoët, Plélan-le-Petit et Ploubalay
 
 Maison d'arrêt de Saint-Brieuc
 
@@ -401,7 +408,9 @@ Evreux.
 Antenne d'Evreux.
 
 Circonscription judiciaire d'Evreux, à l'exception des cantons du ressort de
-l'antenne de Bernay Maison d'arrêt d'Evreux
+l'antenne de Bernay
+
+Maison d'arrêt d'Evreux
 
 Antenne de Bernay.
 
@@ -433,7 +442,9 @@ Brest.
 Antenne de Brest.
 
 Circonscription judiciaire de Brest, à l'exception des cantons situés dans le
-ressort de l'antenne de Morlaix Maison d'arrêt de Brest
+ressort de l'antenne de Morlaix
+
+Maison d'arrêt de Brest
 
 Antenne de Quimper.
 
@@ -465,8 +476,9 @@ Toulouse.
 Antenne de Toulouse.
 
 Circonscription judiciaire de Toulouse, à l'exception des cantons situés dans le
-ressort de l'antenne de Saint-Gaudens Centre pénitentiaire de Toulouse-Seysses
-(quartier de semi-liberté inclus)
+ressort de l'antenne de Saint-Gaudens
+
+Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté inclus)
 
 Antenne de Muret.
 
@@ -524,7 +536,9 @@ Rennes.
 
 Antenne de Rennes.
 
-Circonscription judiciaire de Rennes Centre pénitentiaire de Rennes
+Circonscription judiciaire de Rennes
+
+Centre pénitentiaire de Rennes
 
 Centre pénitentiaire de Rennes - Vezin-le-Coquet (quartier de semi-liberté de
 Rennes compris)
@@ -533,7 +547,9 @@ Antenne de Saint-Malo.
 
 Circonscription judiciaire de Saint Malo, à l'exception des cantons de Broons,
 Caulnes, Dinan-Est, Dinan-Ouest, Evran, Jugon-les-Lacs, Matignon, Plancoët,
-Plélan-le-Petit et Ploubalay Maison d'arrêt de Saint-Malo
+Plélan-le-Petit et Ploubalay
+
+Maison d'arrêt de Saint-Malo
 
 Service pénitentiaire d'insertion et de probation de l'Indre.
 
@@ -572,8 +588,9 @@ Centre de semi-liberté de Grenoble.
 Antenne de Vienne-Saint-Quentin-Fallavier.
 
 Circonscription judiciaire de Vienne, à l'exception des cantons situés dans le
-ressort de l'antenne de Bourgoin-Jallieu Centre pénitentiaire de Saint-Quentin-
-Fallavier
+ressort de l'antenne de Bourgoin-Jallieu
+
+Centre pénitentiaire de Saint-Quentin-Fallavier
 
 Antenne de Bourgoin-Jallieu.
 
@@ -588,7 +605,9 @@ Lons-le-Saunier.
 Antenne de Lons-le-Saunier.
 
 Circonscription judiciaire de Lons-le-Saunier, à l'exception des cantons situés
-dans le ressort de l'antenne de Dole. Maison d'arrêt de Lons-le-Saunier
+dans le ressort de l'antenne de Dole.
+
+Maison d'arrêt de Lons-le-Saunier
 
 Antenne de Dole.
 
@@ -985,15 +1004,12 @@ Service pénitentiaire d'insertion et de probation du Puy-de-Dôme.
 
 Clermont-Ferrand.
 
-Antenne de Clermont-Ferrand.
+Néant
 
-Circonscription judiciaire de Clermont-Ferrand, à l'exception des cantons situés
-dans le ressort de l'antenne de Riom Maison d'arrêt de Clermont-Ferrand
+Circonscription judiciaire de Clermont-Ferrand
 
-Antenne de Riom.
+Maison d'arrêt de Clermont-Ferrand
 
-Cantons d'Aigueperse, Combronde, Ennezat, Manzat, Menat, Montaigut, Pionsat,
-Pontaumur, Pontgibaud, Randan, Riom-Est, Riom-Ouest et Saint-Gervais-d'Auvergne
 Maison d'arrêt de Riom
 
 Centre de détention de Riom
@@ -1101,13 +1117,17 @@ Vesoul.
 Antenne de Vesoul.
 
 Circonscription judiciaire de Vesoul, à l'exception des cantons situés dans le
-ressort de l'antenne de Lure Maison d'arrêt de Vesoul
+ressort de l'antenne de Lure
+
+Maison d'arrêt de Vesoul
 
 Antenne de Lure.
 
 Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest,
 Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse, Saint-
-Sauveur, Saulx, Vauvillers et Villersexel Maison d'arrêt de Lure
+Sauveur, Saulx, Vauvillers et Villersexel
+
+Maison d'arrêt de Lure
 
 Service pénitentiaire d'insertion et de probation de Saône-et-Loire.
 
@@ -1258,7 +1278,9 @@ Amiens.
 Antenne d'Amiens.
 
 Circonscription judiciaire d'Amiens, à l'exception des cantons situés dans le
-ressort des antennes d'Abbeville et de Péronne Maison d'arrêt d'Amiens
+ressort des antennes d'Abbeville et de Péronne
+
+Maison d'arrêt d'Amiens
 
 Antenne d'Abbeville.
 
@@ -1313,16 +1335,16 @@ Antenne de Draguignan.
 
 Circonscription judiciaire de Draguignan.
 
-Centre pénitentiaire de Draguignan.
-
 Service pénitentiaire d'insertion et de probation de Vaucluse.
 
 Avignon.
 
 Antenne d'Avignon.
 
-Circonscription judiciaire d'Avignon. (Arr. 17 sept. 2003, art. 5). Centre
-pénitentiaire d'Avignon-Le Pontet (quartier de semi-liberté inclus)
+Circonscription judiciaire d'Avignon.
+
+(Arr. 17 sept. 2003, art. 5). Centre pénitentiaire d'Avignon-Le Pontet (quartier
+de semi-liberté inclus)
 
 Antenne de Carpentras.
 
@@ -1372,7 +1394,9 @@ Epinal.
 Antenne d'Epinal.
 
 Circonscription judiciaire d'Epinal, à l'exception des cantons situés dans le
-ressort de l'antenne de Saint-Dié-des Vosges Maison d'arrêt d'Epinal
+ressort de l'antenne de Saint-Dié-des Vosges
+
+Maison d'arrêt d'Epinal
 
 Antenne de Saint-Dié-des-Vosges
 
@@ -1498,7 +1522,9 @@ Rémire-Montjoly
 
 Néant.
 
-Circonscription judiciaire de Cayenne. Centre pénitentiaire de Rémire-Montjoly
+Circonscription judiciaire de Cayenne.
+
+Centre pénitentiaire de Rémire-Montjoly
 
 Service pénitentiaire d'insertion et de probation de La Réunion.
 
