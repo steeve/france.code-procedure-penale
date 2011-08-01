@@ -1,47 +1,16 @@
 Article A37-17
 ----
-Le nombre, le siège et la compétence territoriale des juridictions régionales de
-la rétention de sûreté prévues par les articles 706-53-15
+Lorsqu'un formulaire spécifique de requête en exonération est adressé au
+contrevenant, il comprend les mentions suivantes :
 
-et 706-53-21 sont fixés comme suit :
+-les voies de recours ouvertes au contrevenant et les modalités de leur exercice
+;
 
-SIÈGE DES JURIDICTIONS régionales de la rétention
+-une information sur l'examen de la requête et les suites susceptibles de lui
+être données.
 
-de sûreté
-
-COMPÉTENCE TERRITORIALE s'étendant au ressort des cours d'appel
-
-ou des tribunaux supérieurs d'appel
-
-Bordeaux
-
-Agen, Bordeaux, Limoges, Pau, Toulouse.
-
-Douai
-
-Amiens, Douai, Reims, Rouen.
-
-Lyon
-
-Chambéry, Grenoble, Lyon, Riom.
-
-Aix-en-Provence
-
-Aix-en-Provence, Bastia, Montpellier, Nîmes.
-
-Nancy
-
-Besançon, Colmar, Dijon, Metz, Nancy.
-
-Paris
-
-Bourges, Paris, Orléans, Versailles, Nouméa, Papeete, Saint-Denis-de-la-Réunion,
-Saint-Pierre-et-Miquelon.
-
-Rennes
-
-Angers, Caen, Poitiers, Rennes.
-
-Fort-de-France
-
-Basse-Terre, Fort-de-France.
+Lorsque la contravention poursuivie est l'une de celles mentionnées à l'article
+L. 121-3 du code de la route, le formulaire détaille chacun des cas de requête
+en exonération et précise si une consignation préalable est exigible ou non. Une
+carte de consignation est insérée au bas du recto du formulaire lorsque ce
+document est adressé au titulaire du certificat d'immatriculation.

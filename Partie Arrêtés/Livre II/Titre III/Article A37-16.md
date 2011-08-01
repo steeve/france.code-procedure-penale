@@ -1,46 +1,36 @@
 Article A37-16
 ----
-Le nombre, le siège et la compétence territoriale des commissions
-pluridisciplinaires des mesures de sûreté prévues par les articles 706-53-14,
-763-10 et R. 61-7 sont fixés comme suit :
+L'avis de contravention adressé par voie postale au contrevenant ou, lorsque son
+identité n'a pu être établie, au titulaire du certificat d'immatriculation
+comprend :
 
-SIÈGE DES COMMISSIONS pluridisciplinaires
+I.-Les mentions relatives au service verbalisateur, à la nature, au lieu et à la
+date de la contravention, les références des textes réprimant ladite
+contravention, les éléments d'identification du véhicule et l'identité du
+contrevenant ou, lorsque celle-ci n'a pu être relevée, celle du titulaire du
+certificat d'immatriculation.
 
-des mesures de sûreté
+II.-Le montant de l'amende forfaitaire encourue ainsi que le montant de cette
+amende en cas de minoration ou de majoration en considération du délai ou du
+mode de paiement.
 
-COMPÉTENCE TERRITORIALE s'étendant au ressort des cours d'appel
+III.-Une rubrique intitulée " Retrait de point (s) du permis de conduire " où
+est indiqué si la contravention poursuivie est susceptible d'entraîner un
+retrait de point (s) du permis de conduire et comportant les mentions prévues au
+III de l'article A. 37-9, le cas échéant dans un ordre différent. Les
+dispositions du présent alinéa ne sont toutefois pas applicables s'il s'agit
+d'une contravention n'entraînant pas retrait de points du permis de conduire.
 
-ou des tribunaux supérieurs d'appel
+IV.-Le cas échéant, une rubrique relative à l'obligation de procéder à l'échange
+du permis de conduire.
 
-Bordeaux
+V.-Une information sur les droits du destinataire de cet avis et sur les modes
+d'exercice des recours concernant :
 
-Agen, Bordeaux, Limoges, Pau, Toulouse.
+-le traitement automatisé des données à caractère personnel ;
 
-Lille
+-le droit d'accès au cliché éventuellement pris par des appareils de contrôle
+automatiques ;
 
-Amiens, Douai, Reims, Rouen.
-
-Lyon
-
-Chambéry, Grenoble, Lyon, Riom.
-
-Marseille
-
-Aix-en-Provence, Bastia, Montpellier, Nîmes.
-
-Nancy
-
-Besançon, Colmar, Dijon, Metz, Nancy.
-
-Paris
-
-Bourges, Paris, Orléans, Versailles, Nouméa, Papeete, Saint-Denis-de-la-Réunion,
-Saint-Pierre-et-Miquelon.
-
-Rennes
-
-Angers, Caen, Poitiers, Rennes.
-
-Fort-de-France
-
-Basse-Terre, Fort-de-France.
+-l'infraction elle-même lorsque les modalités de contestation ne sont pas
+portées sur un formulaire distinct de la requête en exonération.
