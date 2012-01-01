@@ -1,6 +1,6 @@
 Article R1
 ----
-I. - Toute association visée au deuxième alinéa de l'article 2-3 peut être
+I.-Toute association visée au deuxième alinéa de l'article 2-3 peut être
 inscrite auprès du ministre de la justice, selon les modalités précisées au II
 du présent article, si elle remplit, à la date de sa demande d'inscription, les
 deux conditions suivantes :
@@ -11,7 +11,7 @@ de maltraitance ;
 
 b) justifier d'un nombre total d'adhérents supérieur ou égal à mille.
 
-II. - La demande d'inscription, adressée au ministre de la justice, comprend les
+II.-La demande d'inscription, adressée au ministre de la justice, comprend les
 documents suivants :
 
 a) les statuts de l'association ;
@@ -43,5 +43,5 @@ L'association qui entend contester une décision de refus ou de retrait
 d'inscription doit, préalablement à tout recours contentieux, présenter un
 recours gracieux auprès du ministre de la justice.
 
-III. - Toute association inscrite adresse chaque année au ministre de la justice
+III.-Toute association inscrite adresse chaque année au ministre de la justice
 son rapport d'activité, qui précise notamment le nombre de ses adhérents.

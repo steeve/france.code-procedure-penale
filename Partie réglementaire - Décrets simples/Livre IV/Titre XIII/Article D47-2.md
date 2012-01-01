@@ -6,9 +6,9 @@ figurant ci-dessous sont compétents pour connaître, dans les circonscriptions
 définies à ce tableau, des infractions mentionnées aux alinéas 2 à 13 de cet
 article.
 
-TRIBUNAUXde grande instance compétents
+TRIBUNAUX de grande instance compétents
 
-COMPÉTENCE TERRITORIALEs'étendant au :
+COMPÉTENCE TERRITORIALE s'étendant au :
 
 Agen
 
@@ -41,6 +41,10 @@ Ressort de la cour d'appel de Bourges
 Caen
 
 Ressort de la cour d'appel de Caen
+
+Cayenne
+
+Ressort de la cour d'appel de Cayenne.
 
 Clermont-Ferrand
 
