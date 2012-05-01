@@ -14,11 +14,8 @@ la victime.
 II.-La procédure simplifiée de l'ordonnance pénale est applicable aux délits
 suivants, ainsi qu'aux contraventions connexes :
 
-1° Le délit de vol prévu à l'
-
-article 311-3 du code pénal
-
-ainsi que le recel de ce délit prévu à l'article 321-1 du même code ;
+1° Le délit de vol prévu à l'article 311-3 du code pénal ainsi que le recel de
+ce délit prévu à l'article 321-1 du même code ;
 
 2° Le délit de filouterie prévu à l'article 313-5 du même code ;
 
@@ -43,34 +40,23 @@ code ;
 9° Les délits prévus au titre IV du livre IV du code de commerce pour lesquels
 une peine d'emprisonnement n'est pas encourue ;
 
-10° Le délit d'usage de produits stupéfiants prévu au
-
-premier alinéa de l'article L. 3421-1 du code de la santé publique
-
-;
+10° Le délit d'usage de produits stupéfiants prévu au premier alinéa de
+l'article L. 3421-1 du code de la santé publique ;
 
 11° Le délit d'occupation des espaces communs ou des toits des immeubles
 collectifs d'habitation prévu à l'article L. 126-3 du code de la construction et
 de l'habitation ;
 
-12° Les délits de contrefaçon prévus aux
+12° Les délits de contrefaçon prévus aux articles L. 335-2, L. 335-3 et L. 335-4
+du code de la propriété intellectuelle, lorsqu'ils sont commis au moyen d'un
+service de communication au public en ligne ;
 
-articles L. 335-2, L. 335-3 et L. 335-4 du code de la propriété intellectuelle
+13° Les délits en matière de chèques prévus aux articles L. 163-2 et L. 163-7 du
+code monétaire et financier ;
 
-, lorsqu'ils sont commis au moyen d'un service de communication au public en
-ligne ;
-
-13° Les délits en matière de chèques prévus aux
-
-articles L. 163-2 et L. 163-7 du code monétaire et financier
-
-;
-
-14° Les délits de port ou transport d'armes de la 6e catégorie prévus à l'
-
-article L. 2339-9 du code de la défense
-
-.
+14° Les délits de port ou transport d'armes de la catégorie D figurant sur une
+liste fixée par un décret en Conseil d'Etat prévus à l'article L. 317-8 du code
+de la sécurité intérieure.
 
 III.-La procédure simplifiée de l'ordonnance pénale n'est pas applicable :
 
