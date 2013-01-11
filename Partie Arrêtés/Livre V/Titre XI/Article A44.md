@@ -707,8 +707,6 @@ Néant.
 
 Circonscription judiciaire de Cahors.
 
-Maison d'arrêt de Cahors.
-
 Service pénitentiaire d'insertion et de probation de Lot-et-Garonne.
 
 Agen.
