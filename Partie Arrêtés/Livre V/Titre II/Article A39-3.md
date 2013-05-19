@@ -13,12 +13,15 @@ Sarthe (Orne) ;
 (Gironde) ;
 
 - quartier pour peines aménagées du centre pénitentiaire de Fresnes (Villejuif,
-Val-de-Marne).
+Val-de-Marne) ;
 
 - quartier pour peines aménagées du centre pénitentiaire de Marseille (Bouches-
-du-Rhône).
+du-Rhône) ;
 
 - quartier pour peines aménagées du centre pénitentiaire de Meaux-Chauconin-
-Neufmontiers (Seine-et-Marne).
+Neufmontiers (Seine-et-Marne) ;
 
-- quartier pour peines aménagées du centre pénitentiaire de Metz (Moselle).
+- quartier pour peines aménagées du centre pénitentiaire de Metz (Moselle) ;
+
+- quartier pour peines aménagées du centre pénitentiaire de Poitiers-Vivonne
+(Vienne).
