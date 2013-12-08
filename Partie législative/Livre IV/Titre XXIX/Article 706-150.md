@@ -1,14 +1,11 @@
-Article 706-148
+Article 706-150
 ----
-Si l'enquête porte sur une infraction punie d'au moins cinq ans
-d'emprisonnement, le juge des libertés et de la détention peut, sur requête du
-procureur de la République, autoriser par ordonnance motivée la saisie, aux
-frais avancés du Trésor, des biens dont la confiscation est prévue en
-application des cinquième et sixième alinéas de l'article 131-21 du code pénal
-lorsque la loi qui réprime le crime ou le délit le prévoit ou lorsque l'origine
-de ces biens ne peut être établie. Le juge d'instruction peut, sur requête du
-procureur de la République ou d'office après avis du ministère public, ordonner
-cette saisie dans les mêmes conditions.
+Au cours de l'enquête de flagrance ou de l'enquête préliminaire, le juge des
+libertés et de la détention, saisi par requête du procureur de la République,
+peut autoriser par ordonnance motivée la saisie, aux frais avancés du Trésor,
+des immeubles dont la confiscation est prévue par l'article 131-21 du code
+pénal. Le juge d'instruction peut, au cours de l'information, ordonner cette
+saisie dans les mêmes conditions.
 
 L'ordonnance prise en application du premier alinéa est notifiée au ministère
 public, au propriétaire du bien saisi et, s'ils sont connus, aux tiers ayant des
