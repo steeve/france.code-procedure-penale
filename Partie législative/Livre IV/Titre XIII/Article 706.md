@@ -1,8 +1,9 @@
 Article 706
 ----
-Peuvent exercer des fonctions d'assistant spécialisé auprès d'un tribunal de
-grande instance mentionné à l'article 704 les fonctionnaires de catégorie A ou B
-ainsi que les personnes titulaires, dans des matières définies par décret, d'un
+Peuvent exercer des fonctions d'assistant spécialisé auprès d'un pôle de
+l'instruction mentionné à l'article 52-1 ou d'un tribunal de grande instance
+mentionné aux articles 704 ou 705 les fonctionnaires de catégorie A ou B ainsi
+que les personnes titulaires, dans des matières définies par décret, d'un
 diplôme national sanctionnant une formation d'une durée au moins égale à quatre
 années d'études supérieures après le baccalauréat qui remplissent les conditions
 d'accès à la fonction publique et justifient d'une expérience professionnelle
@@ -13,7 +14,8 @@ entrée en fonction.
 
 Les assistants spécialisés participent aux procédures sous la responsabilité des
 magistrats, sans pouvoir toutefois recevoir délégation de signature, sauf pour
-les réquisitions prévues par les articles 60-1,60-2,77-1-1,77-1-2,99-3 et 99-4.
+les réquisitions prévues par les articles 60-1, 60-2, 77-1-1, 77-1-2, 99-3 et
+99-4.
 
 Ils accomplissent toutes les tâches qui leur sont confiées par les magistrats et
 peuvent notamment :
