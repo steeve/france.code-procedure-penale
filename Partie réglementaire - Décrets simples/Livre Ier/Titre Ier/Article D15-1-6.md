@@ -1,8 +1,8 @@
-Article D15-1-5
+Article D15-1-6
 ----
-Les services, unités et organismes, visés à l'article 706-99, pouvant procéder
-aux opérations d'installation des dispositifs techniques mentionnés à l'article
-706-96 sont :
+Les services, unités et organismes, visés à l'article 706-102-6, pouvant
+procéder aux opérations d'installation des dispositifs techniques mentionnés à
+l'article 706-102-1 sont :
 
 -la direction centrale de la police judiciaire et ses directions interrégionales
 et régionales ;
@@ -19,6 +19,6 @@ et régionales ;
 
 -les sections de recherches de la gendarmerie nationale ;
 
--le groupement de sécurité et d'intervention de la gendarmerie nationale ;
+-les sections d'appui judiciaire de la gendarmerie nationale ;
 
--les sections d'appui judiciaire de la gendarmerie nationale.
+-le groupe d'intervention de la gendarmerie nationale.
