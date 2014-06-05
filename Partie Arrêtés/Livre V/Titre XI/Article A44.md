@@ -518,13 +518,11 @@ Service pénitentiaire d'insertion et de probation de l'Hérault.
 
 Montpellier.
 
-Antenne de Montpellier-Villeneuve-lès-Maguelone
+Antenne de Montpellier-Villeneuve-lès-Maguelone.
 
 Circonscription judiciaire de Montpellier.
 
-Maison d'arrêt de Villeneuve-lès-Maguelone.
-
-Centre de semi-liberté de Montpellier.
+Centre pénitentiaire de Villeneuve-lès-Maguelone.
 
 Antenne de Béziers.
 
@@ -962,8 +960,9 @@ Argentan.
 
 Antenne d'Alençon.
 
-Circonscription judiciaire d'Alençon. Centre pénitentiaire d'Alençon - Condé-
-sur-Sarthe
+Circonscription judiciaire d'Alençon.
+
+Centre pénitentiaire d'Alençon - Condé-sur-Sarthe
 
 Antenne d'Argentan
 
@@ -1499,9 +1498,10 @@ Service pénitentiaire d'insertion et de probation de la Guadeloupe.
 
 Pointe-à-Pitre.
 
-Antenne de Pointe-à-Pitre-Baie-Mahault.
+Antenne de Pointe-à-Pitre-Baie-Mahault
 
-Circonscription judiciaire de Pointe-à-Pitre.
+Circonscription judiciaire de Pointe-à-Pitre, à l'exception des cantons situés
+dans le ressort de l'antenne de Saint-Martin.
 
 Centre pénitentiaire de Baie-Mahault.
 
@@ -1510,6 +1510,10 @@ Antenne de Basse-Terre.
 Circonscription judiciaire de Basse-Terre.
 
 Maison d'arrêt de Basse-Terre.
+
+Antenne de Saint-Martin.
+
+Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton.
 
 Service pénitentiaire d'insertion et de probation de la Martinique.
 
