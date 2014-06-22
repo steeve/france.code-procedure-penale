@@ -1,38 +1,51 @@
 Article 625
 ----
-Si la cour de révision estime que l'affaire n'est pas en état, elle procède
-comme il est dit au sixième alinéa de l'article 623.
+La commission d'instruction et la formation de jugement peuvent saisir la
+chambre criminelle d'une demande de suspension de l'exécution de la
+condamnation. Le condamné peut également demander la suspension de l'exécution
+de sa condamnation à la commission d'instruction et à la formation de jugement,
+qui transmettent sa demande à la chambre criminelle. Les membres de la chambre
+criminelle qui siègent au sein de la cour de révision et de réexamen ne prennent
+pas part aux débats ni à la décision.
 
-Lorsque l'affaire est en état, la cour l'examine au fond et statue, par arrêt
-motivé non susceptible de voie de recours, à l'issue d'une audience publique au
-cours de laquelle sont recueillies les observations orales ou écrites du
-requérant ou de son avocat, celles du ministère public ainsi que, si elle
-intervient à l'instance, après en avoir été dûment avisée, celles de la partie
-civile constituée au procès dont la révision est demandée ou de son avocat. Elle
-rejette la demande si elle l'estime mal fondée. Si, au contraire, elle l'estime
-fondée, elle annule la condamnation prononcée. Elle apprécie s'il est possible
-de procéder à de nouveaux débats contradictoires. Dans l'affirmative, elle
-renvoie les accusés ou prévenus devant une juridiction de même ordre et de même
-degré, mais autre que celle dont émane la décision annulée.
+La chambre criminelle, lorsqu'elle ordonne la suspension de l'exécution de la
+condamnation, peut décider que cette suspension est assortie de l'obligation de
+respecter tout ou partie des conditions d'une libération conditionnelle prévues
+aux articles 731 et 731-1, y compris, le cas échéant, celles résultant d'un
+placement sous surveillance électronique mobile.
 
-S'il y a impossibilité de procéder à de nouveaux débats, notamment en cas
-d'amnistie, de décès, de démence, de contumace ou de défaut d'un ou plusieurs
-condamnés, d'irresponsabilité pénale ou d'excusabilité, en cas de prescription
-de l'action ou de la peine, la cour de révision, après l'avoir expressément
-constatée, statue au fond en présence des parties civiles, s'il y en a au
-procès, et des curateurs nommés par elle à la mémoire de chacun des morts ; en
-ce cas, elle annule seulement celles des condamnations qui lui paraissent non
-justifiées et décharge, s'il y a lieu, la mémoire des morts.
+Elle précise dans sa décision les obligations et interdictions auxquelles est
+soumis le condamné, en désignant le juge de l'application des peines sous le
+contrôle duquel celui-ci est placé. Le juge de l'application des peines peut
+modifier les obligations et interdictions auxquelles est soumis le condamné,
+dans les conditions prévues à l'article 712-6.
 
-Si l'impossiblité de procéder à de nouveaux débats ne se révèle qu'après l'arrêt
-de la cour de révision annulant l'arrêt ou le jugement de condamnation et
-prononçant le renvoi, la cour, sur la réquisition du ministère public, rapporte
-la désignation par elle faite de la juridiction de renvoi et statue comme il est
-dit à l'alinéa précédent.
+Ces obligations et interdictions s'appliquent pendant une durée d'un an, qui
+peut être prolongée, pour la même durée, par la chambre criminelle.
 
-Si l'annulation du jugement ou de l'arrêt à l'égard d'un condamné vivant ne
-laisse rien subsister à sa charge qui puisse être qualifié crime ou délit, aucun
-renvoi n'est prononcé.
+En cas de violation par le condamné des obligations et interdictions auxquelles
+il est soumis, le juge de l'application des peines peut saisir la chambre
+criminelle pour qu'il soit mis fin à la suspension de l'exécution de la
+condamnation. Il peut décerner les mandats prévus à l'article 712-17 et ordonner
+l'incarcération provisoire du condamné en application de l'article 712-19. La
+chambre criminelle doit alors se prononcer dans un délai d'un mois. Si elle ne
+met pas fin à la suspension de l'exécution de la condamnation, elle peut
+modifier les obligations et interdictions auxquelles le condamné est soumis.
 
-L'annulation de la condamnation entraîne la suppression de la fiche du casier
-judiciaire.
+Si la formation de jugement de la cour, statuant en réexamen, annule la
+condamnation sans ordonner la suspension de son exécution, la personne qui
+exécute une peine privative de liberté demeure détenue, sans que cette détention
+puisse excéder la durée de la peine prononcée, jusqu'à la décision, selon le
+cas, de la Cour de cassation statuant en assemblée plénière ou de la juridiction
+du fond. Cette décision doit intervenir dans le délai d'un an à compter de la
+décision d'annulation de la cour de révision et de réexamen. Faute de décision
+de la Cour de cassation ou de la juridiction du fond dans ce délai, la personne
+est mise en liberté, à moins qu'elle ne soit détenue pour une autre cause.
+Pendant ce même délai, la personne est considérée comme placée en détention
+provisoire et peut former des demandes de mise en liberté dans les conditions
+prévues aux articles 148-6 et 148-7. Ces demandes sont examinées dans les
+conditions prévues aux articles 148-1 et 148-2. Toutefois, lorsque la formation
+de jugement de la cour de révision et de réexamen a renvoyé l'affaire devant
+l'assemblée plénière de la Cour de cassation, les demandes de mise en liberté
+sont examinées par la chambre de l'instruction de la cour d'appel dans le
+ressort de laquelle siège la juridiction ayant condamné l'intéressé.
