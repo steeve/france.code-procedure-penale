@@ -184,9 +184,9 @@ Centre pénitentiaire de Marseille.
 
 Antenne d'Aix-Salon-de-Provence.
 
-Circonscription judiciaire d'Aix-en-Provence
+Circonscription judiciaire d'Aix-en-Provence.
 
-Centre pénitentiaire d'Aix-Luynes
+Centre pénitentiaire d'Aix-Luynes.
 
 Centre de détention de Salon-de-Provence.
 
@@ -522,7 +522,9 @@ Antenne de Montpellier-Villeneuve-lès-Maguelone.
 
 Circonscription judiciaire de Montpellier.
 
-Centre pénitentiaire de Villeneuve-lès-Maguelone.
+Maison d'arrêt de Villeneuve-lès-Maguelone.
+
+Centre de semi-liberté de Montpellier.
 
 Antenne de Béziers.
 
@@ -577,8 +579,6 @@ Maison d'arrêt de Tours.
 
 Service pénitentiaire d'insertion et de probation de l'Isère.
 
-Grenoble
-
 Antenne de Grenoble.
 
 Circonscription judiciaire de Grenoble.
@@ -589,13 +589,16 @@ Centre de semi-liberté de Grenoble.
 
 Antenne de Vienne-Saint-Quentin-Fallavier.
 
-Circonscription judiciaire de Vienne.
+Circonscription judiciaire de Vienne, à l'exception des cantons situés dans le
+ressort de l'antenne de Bourgoin-Jallieu.
 
 Centre pénitentiaire de Saint-Quentin-Fallavier.
 
 Antenne de Bourgoin-Jallieu.
 
-Circonscription judiciaire de Bourgoin-Jallieu.
+Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin,
+Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et
+Virieu.
 
 Service pénitentiaire d'insertion et de probation du Jura.
 
@@ -687,6 +690,8 @@ Orléans.
 Antenne d'Orléans.
 
 Circonscription judiciaire d'Orléans.
+
+Centre pénitentiaire d'Orléans-Saran.
 
 Maison d'arrêt d'Orléans.
 
@@ -947,7 +952,7 @@ Maison d'arrêt de Compiègne.
 Antenne de Liancourt.
 
 Centre pénitentiaire de Liancourt (quartier centre de détention et quartier
-maison d'arrêt du Chemin de Verderonne inclus)
+maison d'arrêt du Chemin de Verderonne inclus).
 
 Antenne de Creil.
 
@@ -963,7 +968,7 @@ Circonscription judiciaire d'Alençon.
 
 Centre pénitentiaire d'Alençon - Condé-sur-Sarthe.
 
-Antenne d'Argentan
+Antenne d'Argentan.
 
 Circonscription judiciaire d'Argentan.
 
@@ -1128,7 +1133,7 @@ Antenne de Vesoul.
 Circonscription judiciaire de Vesoul, à l'exception des cantons situés dans le
 ressort de l'antenne de Lure.
 
-Maison d'arrêt de Vesou.
+Maison d'arrêt de Vesoul.
 
 Antenne de Lure.
 
@@ -1180,7 +1185,7 @@ Centre pénitentiaire d'Aiton.
 
 Service pénitentiaire d'insertion et de probation de la Haute-Savoie.
 
-Annemasse
+Annemasse.
 
 Antenne d'Annecy.
 
@@ -1266,7 +1271,7 @@ Niort.
 Antenne de Niort.
 
 Circonscription judiciaire de Niort, à l'exception des cantons du ressort de
-l'antenne de Bressuire
+l'antenne de Bressuire.
 
 Antenne de Bressuire.
 
@@ -1289,12 +1294,12 @@ Antenne d'Abbeville.
 
 Cantons d'Abbeville-Nord, Abbeville-Sud, Ailly-le-Haut-Clocher, Ault, Crécy-en-
 Ponthieu, Friville-Escarbotin, Gamaches, Hallencourt, Moyenneville, Nouvion, Rue
-et Saint-Valery-sur-Somme.
+et Saint-Valery-sur-Somme
 
 Antenne de Péronne.
 
 Cantons d'Albert, de Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne et
-Roisel.
+Roisel
 
 Service pénitentiaire d'insertion et de probation du Tarn.
 
@@ -1500,15 +1505,12 @@ Pointe-à-Pitre.
 Antenne de Pointe-à-Pitre-Baie-Mahault.
 
 Circonscription judiciaire de Pointe-à-Pitre, à l'exception des cantons situés
-dans le ressort de l'antenne de Saint-Martin.
-
-Centre pénitentiaire de Baie-Mahault.
+dans le ressort de l'antenne de Saint-Martin. Centre pénitentiaire de Baie-
+Mahault.
 
 Antenne de Basse-Terre.
 
-Circonscription judiciaire de Basse-Terre.
-
-Maison d'arrêt de Basse-Terre.
+Circonscription judiciaire de Basse-Terre. Maison d'arrêt de Basse-Terre.
 
 Antenne de Saint-Martin.
 
@@ -1532,7 +1534,7 @@ Néant.
 
 Circonscription judiciaire de Cayenne.
 
-Centre pénitentiaire de Rémire-Montjoly.
+Centre pénitentiaire de Rémire-Montjoly
 
 Service pénitentiaire d'insertion et de probation de La Réunion.
 
