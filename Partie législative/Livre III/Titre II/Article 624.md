@@ -1,32 +1,28 @@
 Article 624
 ----
-La commission saisie d'une demande de révision peut, à tout moment, ordonner la
-suspension de l'exécution de la condamnation.
+La demande en révision ou la demande en réexamen est adressée à la commission
+d'instruction des demandes en révision et en réexamen, qui se prononce sur sa
+recevabilité.
 
-Il en est de même pour la cour de révision lorsqu'elle est saisie.
+Lorsque la demande est manifestement irrecevable, le président de la commission
+ou son délégué peut la rejeter par une ordonnance motivée non susceptible de
+recours.
 
-La commission ou la cour de révision qui ordonne la suspension de l'exécution de
-la condamnation peut décider que cette suspension est assortie de l'obligation
-de respecter tout ou partie des conditions d'une libération conditionnelle
-prévues par les articles 731 et 731-1, y compris, le cas échéant, celles
-résultant d'un placement sous surveillance électronique mobile.
+La commission peut ordonner l'exécution d'un supplément d'information confié à
+l'un ou à plusieurs de ses membres aux fins de procéder, directement ou par
+commission rogatoire, dans les formes prévues au présent code, à tout acte
+d'information utile à l'instruction de la demande, à l'exception de l'audition
+de toute personne à l'égard de laquelle il existe des raisons plausibles de
+soupçonner qu'elle a commis ou tenté de commettre une infraction.
 
-Elle précise dans sa décision les obligations et interdictions auxquelles est
-soumis le condamné, en désignant le juge de l'application des peines sous le
-contrôle duquel celui-ci sera placé. Le juge de l'application des peines peut
-modifier les obligations et interdictions auxquelles est soumis le condamné,
-dans les conditions prévues par l'article 712-6.
+Après avoir recueilli les observations écrites ou orales du requérant ou de son
+avocat, celles du ministère public ainsi que, si elle intervient à l'instance,
+après en avoir été dûment avisée, celles de la partie civile constituée au
+procès dont la révision ou le réexamen est demandé ou de son avocat, le
+requérant ou son avocat ayant la parole le dernier, la commission saisit la
+formation de jugement de la cour de révision et de réexamen si la demande lui
+paraît recevable.
 
-Ces obligations et interdictions s'appliquent pendant une durée d'un an, qui
-peut être prolongée, pour la même durée, par la commission ou la cour de
-révision.
-
-En cas de violation par le condamné des obligations et interdictions auxquelles
-il est soumis, le juge de l'application des peines peut saisir la commission ou
-la cour de révision pour qu'elle mette fin à la suspension de l'exécution de la
-condamnation. Il peut décerner les mandats prévus par l'article 712-17 et
-ordonner l'incarcération provisoire du condamné conformément à l'article 712-19.
-La commission ou la cour doit alors se prononcer dans un délai d'un mois. Si
-elle ne met pas fin à la suspension de l'exécution de la condamnation, la
-commission ou la cour de révision peut modifier les obligations et interdictions
-auxquelles le condamné est soumis.
+La commission statue par une décision motivée non susceptible de recours. Cette
+décision, sur demande du requérant ou de son avocat, est rendue en séance
+publique.

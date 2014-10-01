@@ -34,21 +34,23 @@ en vertu d'un mandat d'amener, d'un mandat d'arrêt, d'un mandat d'arrêt
 européen, d'une demande d'arrestation provisoire, d'une demande d'extradition ou
 d'une demande d'arrestation aux fins de remise, à la présentation au juge des
 libertés et de la détention, au premier président de la cour d'appel ou au
-magistrat désigné par lui en application des articles 627-5,695-28,696-11 et
-696-23 si la personne est détenue pour une autre cause, ou à l'interrogatoire du
-prévenu devant le tribunal de police ou devant la juridiction de proximité si
-celui-ci est détenu pour une autre cause. Lorsqu'il s'agit d'une audience au
-cours de laquelle il doit être statué sur le placement en détention provisoire
-ou la prolongation de la détention provisoire, la personne détenue peut refuser
-l'utilisation d'un moyen de télécommunication audiovisuelle, sauf si son
-transport paraît devoir être évité en raison des risques graves de trouble à
-l'ordre public ou d'évasion.
+magistrat désigné par lui en application des articles 627-5,
+
+695-28,696-11 et 696-23 si la personne est détenue pour une autre cause, ou à
+l'interrogatoire du prévenu devant le tribunal de police ou devant la
+juridiction de proximité si celui-ci est détenu pour une autre cause. Lorsqu'il
+s'agit d'une audience au cours de laquelle il doit être statué sur le placement
+en détention provisoire ou la prolongation de la détention provisoire, la
+personne détenue peut refuser l'utilisation d'un moyen de télécommunication
+audiovisuelle, sauf si son transport paraît devoir être évité en raison des
+risques graves de trouble à l'ordre public ou d'évasion.
 
 Elles sont de même applicables devant la commission d'indemnisation des victimes
 d'infractions, devant le premier président de la cour d'appel statuant sur les
 demandes de réparation d'une détention provisoire, devant la Commission
-nationale de réparation des détentions, devant la commission et la cour de
-révision et devant la commission de réexamen des condamnations.
+nationale de réparation des détentions, devant la commission d'instruction des
+demandes en révision et en réexamen et devant la cour de révision et de
+réexamen.
 
 Pour l'application des dispositions des trois alinéas précédents, si la personne
 est assistée par un avocat, celui-ci peut se trouver auprès du magistrat, de la
