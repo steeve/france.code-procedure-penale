@@ -277,7 +277,7 @@ Tulle.
 
 Antenne de Tulle.
 
-Circonscription judiciaire de Tulle.Maison d'arrêt de Tulle.
+Circonscription judiciaire de Tulle. Maison d'arrêt de Tulle.
 
 Antenne de Brive-la-Gaillarde
 
@@ -423,13 +423,13 @@ Service pénitentiaire d'insertion et de probation d'Eure-et-Loir.
 
 Chartres.
 
-Néant.
+Chartres
 
 Circonscription judiciaire de Chartres.
 
-Maison d'arrêt de Chartres.
+Châteaudun
 
-(Arr. 17 sept. 2003 art. 5) Centre de détention de Châteaudun.
+Centre de détention de Châteaudun.
 
 Service pénitentiaire d'insertion et de probation du Finistère.
 
@@ -471,7 +471,7 @@ Toulouse.
 
 Antenne de Toulouse.
 
-Circonscription judiciaire de Toulouse.Centre pénitentiaire de Toulouse-Seysses
+Circonscription judiciaire de Toulouse. Centre pénitentiaire de Toulouse-Seysses
 (quartier de semi-liberté inclus).
 
 Antenne de Muret.
@@ -683,8 +683,6 @@ Circonscription judiciaire d'Orléans.
 
 Centre pénitentiaire d'Orléans-Saran.
 
-Maison d'arrêt d'Orléans.
-
 Antenne de Montargis.
 
 Circonscription judiciaire de Montargis.
@@ -727,7 +725,7 @@ Angers.
 
 Néant.
 
-Circonscriptions judiciaires d'Angers et de Saumur.Maison d'arrêt d'Angers.
+Circonscriptions judiciaires d'Angers et de Saumur. Maison d'arrêt d'Angers.
 
 Service pénitentiaire d'insertion et de probation de la Manche.
 
