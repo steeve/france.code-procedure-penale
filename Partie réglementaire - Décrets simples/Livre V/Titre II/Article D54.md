@@ -1,11 +1,15 @@
 Article D54
 ----
 Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les
-accusés ressortissant aux cours d'assises du Gers, de la Haute-Savoie et de
-Seine-et-Marne sont retenus respectivement à la maison d'arrêt d'Agen, à la
-maison d'arrêt de Bonneville et au quartier maison d'arrêt du centre
-pénitentiaire de Meaux-Chauconin-Neufmontiers ou à la maison d'arrêt de Fleury-
-Mérogis.
+accusés ressortissant aux cours d'assises du Finistère, du Gers, de Haute-
+Savoie, du Lot, de l'Orne, de Paris et de Seine-et-Marne sont retenus
+respectivement à la maison d'arrêt de Brest et au quartier maison d'arrêt du
+centre pénitentiaire de Lorient-Ploemeur, à la maison d'arrêt d'Agen, à la
+maison d'arrêt de Bonneville, à la maison d'arrêt de Montauban, à la maison
+d'arrêt de Caen ou à la maison d'arrêt de Mans-les-Croisettes, au quartier
+maison d'arrêt du centre pénitentiaire de Fresnes ou à la maison d'arrêt de
+Fleury-Mérogis et au quartier maison d'arrêt du centre pénitentiaire de Meaux-
+Chauconin-Neufmontiers ou à la maison d'arrêt de Fleury-Mérogis.
 
 La liste des tribunaux de grande instance auprès desquels il n'y a pas de maison
 d'arrêt est fixée conformément au tableau ci-dessous, qui détermine en outre la
@@ -16,7 +20,7 @@ COURS D'APPEL
 
 JURIDICTIONS
 
-PRISONS DE RATTACHEMENT
+ÉTABLISSEMENTS PÉNITENTIAIRES DE RATTACHEMENT
 
 Agen
 
@@ -24,23 +28,19 @@ Auch
 
 Agen
 
-Marmande
+Cahors
 
-Agen
+Montauban
 
 Aix-en-Provence
 
 Tarascon
 
-Avignon - Le Pontet
+Avignon-Le Pontet
 
-Amiens
+Draguignan
 
-Abbeville
-
-Amiens
-
-Péronne
+Aix-Luynes, Grasse, Marseille, Nice et Toulon-La Farlede
 
 Amiens
 
@@ -62,12 +62,6 @@ Saumur
 
 Angers
 
-Besançon
-
-Dole
-
-Besançon
-
 Bordeaux
 
 Bergerac
@@ -80,13 +74,13 @@ Bordeaux-Gradignan
 
 Caen
 
+Alençon
+
+Le Mans-Les Croisettes
+
 Argentan
 
-Alençon et Caen
-
-Avranches
-
-Saint-Malo et Coutances
+Caen et Le Mans-Les Croisettes
 
 Lisieux
 
@@ -124,10 +118,6 @@ Cambrai
 
 Douai
 
-Hazebrouck
-
-Longuenesse
-
 Grenoble
 
 Bourgoin-Jallieu
@@ -142,17 +132,9 @@ Tulle
 
 Lyon
 
-Belley
-
-Chambéry
-
-Montbrizon
-
-Saint-Etienne - La Talaudière
-
 Roanne
 
-Villefranche-sur-Saône et Saint-Etienne - La Talaudière
+Villefranche-sur-Saône et Saint-Etienne-La Talaudière
 
 Metz
 
@@ -166,19 +148,11 @@ Narbonne
 
 Carcassonne
 
-Millau
-
-Rodez
-
 Nancy
 
 Briey
 
 Metz
-
-Saint-Dié
-
-Epinal
 
 Verdun
 
@@ -192,13 +166,13 @@ Nîmes
 
 Carpentras
 
-Avignon - Le Pontet
+Avignon-Le Pontet
 
 Orléans
 
 Montargis
 
-Orléans
+Orléans et Fleury-Mérogis
 
 Paris
 
@@ -209,6 +183,10 @@ Meaux-Chauconin-Neufmontiers et Fleury-Mérogis
 Melun
 
 Meaux-Chauconin-Neufmontiers et Fleury-Mérogis
+
+Paris
+
+Fresnes et Fleury-Mérogis
 
 Sens
 
@@ -222,31 +200,11 @@ Bayonne et Mont-de-Marsan
 
 Poitiers
 
-La Rochelle
-
-Fontenay-le-Comte
-
-Bressuire
-
-Fontenay-le-Comte
-
 Les Sables-d'Olonne
 
-La Roche-sur-Yon
+La-Roche-sur-Yon et Fontenay-le-Comte
 
 Rennes
-
-Dinan
-
-Saint-Malo
-
-Guingamp
-
-Saint-Brieuc
-
-Morlaix
-
-Brest et Saint-Brieuc
 
 Quimper
 
@@ -260,24 +218,26 @@ Riom
 
 Cusset
 
-Moulins-Yzeure
+Moulins-Yzeure et Riom
 
 Rouen
 
-Bernay
-
-Evreux
-
 Dieppe
 
-Rouen et Caen
+Rouen et Le Havre
 
 Toulouse
+
+Castres
+
+Albi et Toulouse-Seysses
 
 Saint-Gaudens
 
 Toulouse-Seysses
 
-Castres
+Versailles
 
-Albi et Toulouse-Seysses
+Chartres
+
+Orléans-Saran
