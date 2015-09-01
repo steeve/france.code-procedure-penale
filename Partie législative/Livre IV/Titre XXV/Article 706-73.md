@@ -28,9 +28,6 @@ pénal ;
 8° Crimes aggravés d'extorsion prévus par les articles 312-6 et 312-7 du code
 pénal ;
 
-8° bis Délit d'escroquerie en bande organisée prévu par le dernier alinéa de
-l'article 313-2 du code pénal ;
-
 9° Crime de destruction, dégradation et détérioration d'un bien commis en bande
 organisée prévu par l'article 322-8 du code pénal ;
 
@@ -77,9 +74,8 @@ minier, lorsqu'il est connexe avec l'une des infractions mentionnées aux 1° à
 20° Délits de dissimulation d'activités ou de salariés, de recours aux services
 d'une personne exerçant un travail dissimulé, de marchandage de main-d'œuvre, de
 prêt illicite de main-d'œuvre, d'emploi d'étrangers sans titre de travail prévus
-aux 1° et 3° de l'article L. 8221-1 et aux articles L. 8221-3, L. 8221-5,
-
-L. 8224-1, L. 8224-2, L. 8231-1, L. 8234-1, L. 8234-2, L. 8241-1, L. 8243-1, L.
+aux 1° et 3° de l'article L. 8221-1 et aux articles L. 8221-3, L. 8221-5, L.
+8224-1, L. 8224-2, L. 8231-1, L. 8234-1, L. 8234-2, L. 8241-1, L. 8243-1, L.
 8243-2, L. 8251-1 et L. 8256-2 du code du travail.
 
 Pour les infractions visées aux 3°, 6° et 11°, sont applicables, sauf précision
