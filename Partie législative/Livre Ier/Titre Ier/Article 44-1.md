@@ -19,8 +19,8 @@ transaction.
 
 La transaction peut également consister en l'exécution, au profit de la commune,
 d'un travail non rémunéré pendant une durée maximale de trente heures. Elle doit
-alors être homologuée, selon la nature de la contravention, par le juge du
-tribunal de police ou par le juge de la juridiction de proximité.
+alors être homologuée, selon la nature de la contravention, par le juge
+compétent du tribunal de police.
 
 Lorsqu'une de ces contraventions n'a pas été commise au préjudice de la commune
 mais a été commise sur le territoire de celle-ci, le maire peut proposer au

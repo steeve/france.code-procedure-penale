@@ -1,8 +1,8 @@
 Article 113-8
 ----
 S'il estime que sont apparus au cours de la procédure des indices graves ou
-concordants justifiant la mise en examen du témoin assisté, le juge
-d'instruction procède à cette mise en examen en faisant application des
+concordants justifiant la mise en examen du témoin assisté, le collège de
+l'instruction procède à cette mise en examen en faisant application des
 dispositions des huitième et neuvième alinéas de l'article 116 au cours d'un
 interrogatoire réalisé dans les formes prévues à l'article 114.
 
@@ -21,4 +21,5 @@ les autres cas.
 
 Dans les cas visés aux deuxième et troisième alinéas du présent article, la
 personne est également informée que si elle demande à être à nouveau entendue
-par le juge d'instruction, celui-ci est tenu de procéder à son interrogatoire.
+par le collège de l'instruction, celui-ci est tenu de procéder à son
+interrogatoire.

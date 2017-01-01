@@ -53,13 +53,13 @@ pour connaître de ces infractions.
 Au sein de chaque tribunal de grande instance dont la compétence territoriale
 est étendue au ressort d'une ou plusieurs cours d'appel, le premier président,
 après avis du président du tribunal de grande instance donné après consultation
-de la commission restreinte de l'assemblée des magistrats du siège, désigne un
-ou plusieurs juges d'instruction et magistrats du siège chargés spécialement de
-l'instruction et, s'il s'agit de délits, du jugement des infractions entrant
-dans le champ d'application du présent article. Le procureur général, après avis
-du procureur de la République, désigne un ou plusieurs magistrats du parquet
-chargés de l'enquête et de la poursuite des infractions entrant dans le champ
-d'application du présent article.
+de la commission restreinte de l'assemblée des magistrats du siège, désigne les
+juges d'instruction et magistrats du siège chargés spécialement de l'instruction
+et, s'il s'agit de délits, du jugement des infractions entrant dans le champ
+d'application du présent article. Le procureur général, après avis du procureur
+de la République, désigne un ou plusieurs magistrats du parquet chargés de
+l'enquête et de la poursuite des infractions entrant dans le champ d'application
+du présent article.
 
 Au sein de chaque cour d'appel dont la compétence territoriale est étendue au
 ressort d'une ou plusieurs cours d'appel, le premier président, après

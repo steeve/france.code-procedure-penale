@@ -8,5 +8,5 @@ est entaché et, s'il y échet, celle de tout ou partie de la procédure
 ultérieure.
 
 Après annulation, elle peut soit évoquer et procéder dans les conditions prévues
-aux articles 201,202 et 204, soit renvoyer le dossier de la procédure au même
-juge d'instruction ou à tel autre, afin de poursuivre l'information.
+aux articles 201,202 et 204, soit renvoyer le dossier de la procédure aux mêmes
+juges d'instruction ou à d'autres, afin de poursuivre l'information.

@@ -8,5 +8,5 @@ République, des dispositions particulières du code de justice militaire.
 
 Toutefois, le procureur de la République compétent en application de l'article
 43 a qualité pour accomplir ou faire accomplir les actes nécessités par
-l'urgence et requérir à cet effet le juge d'instruction de son siège. Les
+l'urgence et requérir à cet effet la juridiction d'instruction de son siège. Les
 dispositions des articles 698-1 à 698-5 sont alors applicables.

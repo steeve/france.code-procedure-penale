@@ -34,5 +34,5 @@ visés au troisième alinéa de l'article 570.
 
 Lorsque le président de la chambre criminelle déclare immédiatement recevable le
 pourvoi formé contre un arrêt de la chambre de l'instruction, saisie par
-application de l'article 173, il peut ordonner au juge d'instruction saisi de
-suspendre son information, à l'exception des actes urgents.
+application de l'article 173, il peut ordonner au collège de l'instruction saisi
+de suspendre son information, à l'exception des actes urgents.

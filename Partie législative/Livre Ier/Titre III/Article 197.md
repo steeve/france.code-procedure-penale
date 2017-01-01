@@ -7,7 +7,7 @@ l'établissement pénitentiaire qui adresse, sans délai, au procureur général
 l'original ou la copie du récépissé signé par la personne. La notification à
 toute personne non détenue, à la partie civile ou au requérant mentionné au
 cinquième alinéa de l'article 99 est faite à la dernière adresse déclarée tant
-que le juge d'instruction n'a pas clôturé son information.
+que le collège de l'instruction n'a pas clôturé son information.
 
 Un délai minimum de quarante-huit heures en matière de détention provisoire, et
 de cinq jours en toute autre matière, doit être observé entre la date d'envoi de

@@ -1,7 +1,7 @@
 Article 145
 ----
-Le juge des libertés et de la détention saisi par une ordonnance du juge
-d'instruction tendant au placement en détention de la personne mise en examen
+Le juge des libertés et de la détention saisi par une ordonnance du collège de
+l'instruction tendant au placement en détention de la personne mise en examen
 fait comparaître cette personne devant lui, assistée de son avocat si celui-ci a
 déjà été désigné, et procède conformément aux dispositions du présent article.
 
@@ -54,10 +54,10 @@ la personne et, que celle-ci soit ou non assistée d'un avocat, procède comme i
 est dit au sixième alinéa. S'il n'ordonne pas le placement de la personne en
 détention provisoire, celle-ci est mise en liberté d'office.
 
-Pour permettre au juge d'instruction de procéder à des vérifications relatives à
-la situation personnelle du mis en examen ou aux faits qui lui sont reprochés,
-lorsque ces vérifications sont susceptibles de permettre le placement de
-l'intéressé sous contrôle judiciaire ou sous assignation à résidence avec
+Pour permettre au collège de l'instruction de procéder à des vérifications
+relatives à la situation personnelle du mis en examen ou aux faits qui lui sont
+reprochés, lorsque ces vérifications sont susceptibles de permettre le placement
+de l'intéressé sous contrôle judiciaire ou sous assignation à résidence avec
 surveillance électronique, le juge des libertés et de la détention peut
 également décider d'office de prescrire par ordonnance motivée l'incarcération
 provisoire du mis en examen pendant une durée déterminée qui ne saurait excéder

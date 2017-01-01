@@ -1,6 +1,5 @@
 Article 877
 ----
-Pour l'application du présent code dans le Département de Mayotte, il est tenu
-compte des adaptations prévues par le présent titre.
-
-Les articles 254 à 267,288 à 303 et 305 ne sont pas applicables.
+A l'exception des articles 52-1,83,191,232,235,240,243 à 267,288 à 303,305,398 à
+398-2,399,510,717 à 719, le présent code (Dispositions législatives) est
+applicable à Mayotte sous réserve des adaptations prévues au présent titre.

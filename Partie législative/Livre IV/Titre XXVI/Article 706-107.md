@@ -14,9 +14,9 @@ exclusive ou dans la zone de protection écologique.
 
 Toutefois, dans les affaires qui sont ou apparaissent d'une grande complexité,
 le procureur de la République près le tribunal de grande instance mentionné au
-premier alinéa peut requérir le juge d'instruction, dans les conditions et selon
-les modalités prévues par les articles 706-110 et 706-111 de se dessaisir au
-profit du tribunal de grande instance de Paris.
+premier alinéa peut requérir le collège de l'instruction, dans les conditions et
+selon les modalités prévues par les articles 706-110 et 706-111 de se dessaisir
+au profit du tribunal de grande instance de Paris.
 
 Le tribunal de grande instance de Paris peut également connaître des infractions
 qui sont ou apparaissent d'une grande complexité dès le stade de l'enquête.

@@ -10,4 +10,4 @@ juridiction correctionnelle ou de police.
 
 Elle peut statuer sans ordonner une nouvelle information si les chefs de
 poursuite visés à l'alinéa précédent ont été compris dans les faits pour
-lesquels la personne à été mise en examen par le juge d'instruction.
+lesquels la personne à été mise en examen par le collège de l'instruction.

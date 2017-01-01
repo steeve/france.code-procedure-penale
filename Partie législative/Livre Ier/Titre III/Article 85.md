@@ -1,8 +1,8 @@
 Article 85
 ----
 Toute personne qui se prétend lésée par un crime ou un délit peut en portant
-plainte se constituer partie civile devant le juge d'instruction compétent en
-application des dispositions des articles 52,52-1 et 706-42.
+plainte se constituer partie civile devant le pôle de l'instruction compétent en
+application des dispositions des articles 52, 52-1 et 706-42.
 
 Toutefois, la plainte avec constitution de partie civile n'est recevable qu'à
 condition que la personne justifie soit que le procureur de la République lui a

@@ -10,6 +10,6 @@ conformément aux dispositions de l'article 20 de l'ordonnance n° 45-174 du 2
 février 1945 relative à l'enfance délinquante, dont les huitième à dernier
 alinéas sont applicables.
 
-Pour l'application de l'alinéa précédent, le juge d'instruction ou la chambre de
-l'instruction qui prononce la mise en accusation constate que les faits entrent
-dans le champ d'application de l'article 706-16.
+Pour l'application de l'alinéa précédent, le collège de l'instruction ou la
+chambre de l'instruction qui prononce la mise en accusation constate que les
+faits entrent dans le champ d'application de l'article 706-16.

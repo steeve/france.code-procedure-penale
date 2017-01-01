@@ -6,8 +6,8 @@ de l'instruction, le tribunal correctionnel et la cour d'assises de Paris
 exercent une compétence concurrente à celle qui résulte de l'application des
 articles 43, 52 et 382.
 
-En ce qui concerne les mineurs, le procureur de la République, le juge
-d'instruction, le juge des enfants, le tribunal pour enfants et la cour
+En ce qui concerne les mineurs, le procureur de la République, le pôle de
+l'instruction, le juge des enfants, le tribunal pour enfants et la cour
 d'assises des mineurs de Paris exercent une compétence concurrente à celle qui
 résulte de l'application des dispositions de l'ordonnance n° 45-174 du 2 février
 1945 relative à l'enfance délinquante.
@@ -18,8 +18,7 @@ République et le pôle de l'instruction de Paris exercent leurs attributions su
 toute l'étendue du territoire national.
 
 L'instruction des actes de terrorisme définis aux 5° à 7° de l'article 421-1 du
-code pénal et aux articles 421-2-2 et 421-2-3 du même code peut être confiée, le
-cas échéant dans les conditions prévues à l'article 83-1, à un magistrat du
-tribunal de grande instance de Paris affecté aux formations d'instruction
-spécialisées en matière économique et financière en application des dispositions
-du vingt et unième alinéa de l'article 704.
+code pénal et aux articles 421-2-2 et 421-2-3 du même code peut être confiée à
+des magistrats du tribunal de grande instance de Paris affectés aux formations
+d'instruction spécialisées en matière économique et financière en application
+des dispositions du vingt et unième alinéa de l'article 704.

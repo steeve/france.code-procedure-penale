@@ -1,8 +1,8 @@
 Article 148-1-1
 ----
 Lorsqu'une ordonnance de mise en liberté d'une personne placée en détention
-provisoire est rendue par le juge des libertés et de la détention ou le juge
-d'instruction contrairement aux réquisitions du procureur de la République,
+provisoire est rendue par le juge des libertés et de la détention ou le collège
+de l'instruction contrairement aux réquisitions du procureur de la République,
 cette ordonnance est immédiatement notifiée à ce magistrat. Pendant un délai de
 quatre heures à compter la notification de l'ordonnance au procureur de la
 République, et sous réserve de l'application des dispositions du dernier alinéa
@@ -11,8 +11,8 @@ cette décision ne peut être adressée pour exécution au chef de l'établissem
 pénitentiaire.
 
 Le procureur de la République peut interjeter appel de l'ordonnance devant le
-greffier du juge des libertés et de la détention ou du juge d'instruction, en
-saisissant dans le même temps le premier président de la cour d'appel d'un
+greffier du juge des libertés et de la détention ou du collège de l'instruction,
+en saisissant dans le même temps le premier président de la cour d'appel d'un
 référé-détention, conformément aux dispositions de l'article 187-3 ; l'appel et
 le référé-détention sont mentionnés sur l'ordonnance. La personne mise en examen
 et son avocat en sont avisés en même temps que leur est notifiée l'ordonnance,
